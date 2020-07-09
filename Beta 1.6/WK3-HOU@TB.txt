@@ -1,0 +1,854 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Vipers' (K) Andrew Franks will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+(RB) James Butler catches the ball from the 9.
+(RB) James Butler is tackled after a short 1 yard gain.
+Roughnecks to start their drive on the HOU 10.
+
+
+[Q1 | 14:49] HOU 1st & 10  @ HOU 10
+(RB) Andrew Williams runs right for a 1 yard gain!
+The tackle made by (LB) Lucas Wacha.
+
+[Q1 | 14:32] HOU 2nd & 9  @ HOU 11
+(RB) Andrew Williams runs middle for a 6 yard gain!
+The tackle made by (LB) Lucas Wacha.
+
+[Q1 | 14:04] HOU 3rd & 3  @ HOU 17
+(RB) James Butler runs left for a 8 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q1 | 13:43] HOU 1st & 10  @ HOU 25
+(RB) Andrew Williams runs left for a 1 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q1 | 13:17] HOU 2nd & 9  @ HOU 26
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q1 | 12:54] HOU 3rd & 8  @ HOU 27
+(RB) James Butler runs right for a 12 yard gain!
+The tackle made by (LB) Lucas Wacha.
+
+[Q1 | 12:24] HOU 1st & 10  @ HOU 39
+(RB) James Butler is brought down for a 2 yard loss.
+The tackle made by (DE) Obum Gwacham.
+
+[Q1 | 12:05] HOU 2nd & 12  @ HOU 37
+(RB) Andrew Williams runs left for a 2 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q1 | 11:45] HOU 3rd & 10  @ HOU 39
+(RB) Andrew Williams runs middle for a 11 yard gain!
+The tackle made by (DE) Obum Gwacham.
+
+[Q1 | 11:28] HOU 1st & 10  @  the '50
+(RB) James Butler runs left for a 10 yard gain!
+The tackle made by (LB) Lucas Wacha.
+
+[Q1 | 10:59] HOU 1st & 10  @ TB 40
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DE) Obum Gwacham.
+
+[Q1 | 10:30] HOU 2nd & 10  @ TB 40
+(RB) James Butler runs left for a 2 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q1 | 10:07] HOU 3rd & 8  @ TB 38
+(RB) Andrew Williams is brought down for a 2 yard loss.
+The tackle made by (DE) Obum Gwacham.
+
+[Q1 | 09:43] HOU 4th & 10  @ TB 40
+(P) Ajene Rehkow punts the ball 38 yards.
+Vipers will start their drive on the TB 2.
+
+ -= Vipers - 0 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 5:21
+Plays: 13 Run ; 0 Pass
+Yards: 50
+===============================
+
+
+[Q1 | 09:28] TB 1st & 10  @ TB 2
+(RB) Jacques Patrick runs middle for a 1 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 09:04] TB 2nd & 9  @ TB 3
+(RB) De'Veon Smith runs right for a 3 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 08:44] TB 3rd & 6  @ TB 6
+(RB) Jacques Patrick runs right for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 08:23] TB 4th & 4  @ TB 8
+(P) Jake Schum punts the ball a good 52 yards!
+Roughnecks will start their drive on the HOU 40.
+
+ -= Roughnecks - 0 ; Vipers - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:17
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q1 | 08:11] HOU 1st & 10  @ HOU 40
+(RB) Andrew Williams runs right for a 11 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q1 | 07:44] HOU 1st & 10  @ TB 49
+(RB) Andrew Williams runs left for a 49 yard gain!
+Touchdown, Roughnecks!
+
+ -= Vipers - 0 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 0:44
+Plays: 2 Run ; 0 Pass
+Yards: 60
+===============================
+
+[Q1 | 07:27]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Vipers have elected (WR) Reece Horn to recieve.
+
+(WR) Reece Horn catches the ball from the 16.
+(WR) Reece Horn is tackled after a 11 yard gain.
+Vipers to start their drive on the TB 27.
+
+
+[Q1 | 07:11] TB 1st & 10  @ TB 27
+(RB) De'Veon Smith runs left for a 2 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q1 | 06:47] TB 2nd & 8  @ TB 29
+(RB) De'Veon Smith runs right for a 1 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 06:19] TB 3rd & 7  @ TB 30
+(RB) Jacques Patrick runs left for a 13 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 05:52] TB 1st & 10  @ TB 43
+(RB) De'Veon Smith is brought down for a 0 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 05:33] TB 2nd & 10  @ TB 43
+(RB) De'Veon Smith runs right for a 9 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 05:04] TB 3rd & 1  @ HOU 48
+(RB) De'Veon Smith is brought down for a 6 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q1 | 04:46] TB 4th & 7  @ TB 46
+(P) Jake Schum punts the ball 46 yards.
+Roughnecks will start their drive on the HOU 8.
+
+ -= Roughnecks - 6 ; Vipers - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:43
+Plays: 6 Run ; 0 Pass
+Yards: 19
+===============================
+
+
+[Q1 | 04:28] HOU 1st & 10  @ HOU 8
+(RB) James Butler runs right for a 4 yard gain!
+The tackle made by (DT) Shane Bowman.
+
+[Q1 | 04:00] HOU 2nd & 6  @ HOU 12
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (DT) Nikita Whitlock.
+
+[Q1 | 03:19] HOU 3rd & 2  @ HOU 16
+(RB) James Butler runs left for a 3 yard gain!
+The tackle made by (LB) Lucas Wacha.
+
+[Q1 | 02:51] HOU 1st & 10  @ HOU 19
+(RB) Andrew Williams runs right for a 10 yard gain!
+The tackle made by (DE) Obum Gwacham.
+
+[Q1 | 02:24] HOU 1st & 10  @ HOU 29
+(RB) Andrew Williams carries the ball for a 9 gain but gets stripped!
+Ball recovery by (DT) Shane Bowman on the HOU 38.
+
+
+[Q1 | 01:49] HOU 2nd & 1  @ HOU 38
+(RB) James Butler is brought down for a 7 yard loss.
+The tackle made by (DT) Nikita Whitlock.
+
+[Q1 | 01:19] HOU 3rd & 8  @ HOU 31
+(RB) James Butler runs left for a 1 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q1 | 00:47] HOU 4th & 7  @ HOU 32
+(P) Ajene Rehkow punts the ball 37 yards.
+Vipers will start their drive on the TB 31.
+
+ -= Vipers - 0 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 4:00
+Plays: 7 Run ; 0 Pass
+Yards: 24
+===============================
+
+
+[Q1 | 00:28] TB 1st & 10  @ TB 31
+(RB) Jacques Patrick is brought down for a 0 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q1 | 00:07] TB 2nd & 10  @ TB 31
+(RB) De'Veon Smith runs right for a 3 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 14:39] TB 3rd & 7  @ TB 34
+(RB) De'Veon Smith runs right for a 36 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 14:18] TB 1st & 10  @ HOU 30
+(RB) Jacques Patrick runs right for a 3 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 14:01] TB 2nd & 7  @ HOU 27
+(RB) De'Veon Smith runs middle for a 4 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 13:32] TB 3rd & 3  @ HOU 23
+(RB) Jacques Patrick runs middle for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 13:14] TB 4th & 1  @ HOU 21
+(QB) Quinton Flowers runs up the middle for a 2 gain.
+(CB) Ajene Harris with the tackle.
+
+[Q2 | 12:43] TB 1st & 10  @ HOU 19
+(RB) De'Veon Smith runs middle for a 6 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 12:13] TB 2nd & 4  @ HOU 13
+(RB) Jacques Patrick runs right for a 6 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 11:43] TB 1st & Goal  @ HOU 7
+(RB) Jacques Patrick runs left for a 1 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 11:23] TB 2nd & Goal  @ HOU 6
+(RB) De'Veon Smith is brought down for a 4 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 10:54] TB 3rd & Goal  @ HOU 10
+(RB) De'Veon Smith runs left for a 10 yard gain!
+Touchdown, Vipers!
+
+ -= Roughnecks - 6 ; Vipers - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 5:04
+Plays: 12 Run ; 0 Pass
+Yards: 69
+===============================
+
+[Q2 | 10:24]  | Kick-off!
+
+The Vipers' (K) Andrew Franks will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+(RB) James Butler catches the ball from the 3.
+(RB) James Butler is immediately tackled. No gain.
+Roughnecks to start their drive on the HOU 3.
+
+
+[Q2 | 10:16] HOU 1st & 10  @ HOU 3
+(RB) Andrew Williams runs left for a 12 yard gain!
+The tackle made by (DE) Obum Gwacham.
+
+[Q2 | 09:50] HOU 1st & 10  @ HOU 15
+(RB) Andrew Williams runs middle for a 13 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q2 | 09:27] HOU 1st & 10  @ HOU 28
+(RB) Andrew Williams is brought down for a 7 yard loss.
+The tackle made by (DT) Nikita Whitlock.
+
+[Q2 | 09:02] HOU 2nd & 17  @ HOU 21
+(RB) Andrew Williams is brought down for a 2 yard loss.
+The tackle made by (DE) Deiontrez Mount.
+
+[Q2 | 08:32] HOU 3rd & 19  @ HOU 19
+(RB) James Butler runs middle for a 12 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q2 | 08:09] HOU 4th & 7  @ HOU 31
+(P) Ajene Rehkow punts the ball a good 50 yards!
+Vipers will start their drive on the TB 19.
+
+ -= Vipers - 6 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 2:31
+Plays: 5 Run ; 0 Pass
+Yards: 28
+===============================
+
+
+[Q2 | 07:45] TB 1st & 10  @ TB 19
+(RB) Jacques Patrick runs right for a 1 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 07:27] TB 2nd & 9  @ TB 20
+(RB) Jacques Patrick is brought down for a 2 yard loss.
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 06:58] TB 3rd & 11  @ TB 18
+(RB) De'Veon Smith is brought down for a 0 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 06:32] TB 4th & 11  @ TB 18
+(P) Jake Schum punts the ball a good 50 yards!
+Roughnecks will start their drive on the HOU 32.
+
+ -= Roughnecks - 6 ; Vipers - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:40
+Plays: 3 Run ; 0 Pass
+Yards: -1
+===============================
+
+
+[Q2 | 06:05] HOU 1st & 10  @ HOU 32
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (DT) Nikita Whitlock.
+
+[Q2 | 05:48] HOU 2nd & 10  @ HOU 32
+(RB) Andrew Williams runs middle for a 13 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q2 | 05:23] HOU 1st & 10  @ HOU 45
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DE) Obum Gwacham.
+
+[Q2 | 04:54] HOU 2nd & 9  @ HOU 46
+(RB) Andrew Williams runs middle for a 3 yard gain!
+The tackle made by (DT) Nikita Whitlock.
+
+[Q2 | 04:36] HOU 3rd & 6  @ HOU 49
+(RB) Andrew Williams runs right for a 9 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q2 | 04:18] HOU 1st & 10  @ TB 42
+(RB) Andrew Williams runs left for a 5 yard gain!
+The tackle made by (DT) Shane Bowman.
+
+[Q2 | 03:49] HOU 2nd & 5  @ TB 37
+(RB) James Butler runs middle for a 4 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q2 | 03:20] HOU 3rd & 1  @ TB 33
+(RB) James Butler runs right for a 15 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q2 | 02:59] HOU 1st & 10  @ TB 18
+(RB) James Butler runs left for a 3 yard gain!
+The tackle made by (DT) Shane Bowman.
+
+[Q2 | 02:37] HOU 2nd & 7  @ TB 15
+(RB) Andrew Williams runs middle for a 12 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q2 | 02:10] HOU 1st & Goal  @ TB 3
+(RB) James Butler is brought down for a 2 yard loss.
+The tackle made by (DT) Shane Bowman.
+
+[Q2 | 01:40] HOU 2nd & Goal  @ TB 5
+(RB) Andrew Williams runs right for a 5 yard gain!
+Touchdown, Roughnecks!
+
+ -= Vipers - 6 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 4:53
+Plays: 12 Run ; 0 Pass
+Yards: 68
+===============================
+
+[Q2 | 01:12]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Vipers have elected (WR) Reece Horn to recieve.
+
+A fair catch is whistled.
+Vipers to start their drive on the TB 19.
+
+
+[Q2 | 00:59] TB 1st & 10  @ TB 19
+(RB) De'Veon Smith is brought down for a 0 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 00:34] TB 2nd & 10  @ TB 19
+(RB) Jacques Patrick is brought down for a 0 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 00:17] TB 3rd & 10  @ TB 19
+(RB) De'Veon Smith runs left for a 24 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+End of first half.
+ -= Roughnecks - 12 ; Vipers - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 0:59
+Plays: 3 Run ; 0 Pass
+Yards: 24
+===============================
+
+[Q3 | 15:00]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Vipers have elected (WR) Reece Horn to recieve.
+
+Ball hits the turf at the 2 yard line
+and bounces into the endzone. Minor touchback.
+Vipers to start their drive on the TB 15.
+
+
+[Q3 | 14:48] TB 1st & 10  @ TB 15
+(RB) Jacques Patrick runs left for a 4 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 14:20] TB 2nd & 6  @ TB 19
+(RB) Jacques Patrick is brought down for a 1 yard loss.
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 13:58] TB 3rd & 7  @ TB 18
+(RB) Jacques Patrick is brought down for a 7 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 13:36] TB 4th & 14  @ TB 11
+(P) Jake Schum punts the ball a good 59 yards!
+Roughnecks will start their drive on the HOU 30.
+
+ -= Roughnecks - 12 ; Vipers - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:33
+Plays: 3 Run ; 0 Pass
+Yards: -4
+===============================
+
+
+[Q3 | 13:15] HOU 1st & 10  @ HOU 30
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DT) Shane Bowman.
+
+[Q3 | 12:40] HOU 2nd & 10  @ HOU 30
+(RB) Andrew Williams runs right for a 70 yard gain!
+Touchdown, Roughnecks!
+
+ -= Vipers - 6 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:04
+Plays: 2 Run ; 0 Pass
+Yards: 70
+===============================
+
+[Q3 | 12:11]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Vipers have elected (WR) Ryan Davis to recieve.
+
+(WR) Ryan Davis catches the ball from the 1.
+(WR) Ryan Davis is immediately tackled. No gain.
+Vipers to start their drive on the TB 1.
+
+
+[Q3 | 12:03] TB 1st & 10  @ TB 1
+(RB) De'Veon Smith runs middle for a 7 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 11:44] TB 2nd & 3  @ TB 8
+(RB) De'Veon Smith runs left for a 1 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 11:20] TB 3rd & 2  @ TB 9
+(RB) De'Veon Smith runs right for a 60 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 10:51] TB 1st & 10  @ HOU 31
+(RB) De'Veon Smith runs left for a 12 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 10:25] TB 1st & 10  @ HOU 19
+(RB) De'Veon Smith runs middle for a 19 yard gain!
+Touchdown, Vipers!
+
+ -= Roughnecks - 18 ; Vipers - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:00
+Plays: 5 Run ; 0 Pass
+Yards: 99
+===============================
+
+[Q3 | 10:03]  | Kick-off!
+
+The Vipers' (K) Andrew Franks will kick the ball.
+Roughnecks have elected (WR) Sam Mobley to recieve.
+
+Ball hits the turf and rolls to a halt at the 17.
+Roughnecks will start their drive on the HOU 17.
+
+
+[Q3 | 09:50] HOU 1st & 10  @ HOU 17
+(RB) James Butler runs middle for a 3 yard gain!
+The tackle made by (DT) Shane Bowman.
+
+[Q3 | 09:07] HOU 2nd & 7  @ HOU 20
+(RB) Andrew Williams runs right for a 1 yard gain!
+The tackle made by (DT) Shane Bowman.
+
+[Q3 | 08:36] HOU 3rd & 6  @ HOU 21
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DT) Nikita Whitlock.
+
+[Q3 | 08:06] HOU 4th & 5  @ HOU 22
+(P) Ajene Rehkow punts the ball a good 52 yards!
+Vipers will start their drive on the TB 26.
+
+ -= Vipers - 12 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 2:09
+Plays: 3 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q3 | 07:41] TB 1st & 10  @ TB 26
+(RB) De'Veon Smith runs middle for a 2 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 07:17] TB 2nd & 8  @ TB 28
+(RB) Jacques Patrick runs left for a 11 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 06:47] TB 1st & 10  @ TB 39
+(RB) Jacques Patrick runs right for a 3 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 06:21] TB 2nd & 7  @ TB 42
+(RB) De'Veon Smith runs left for a 9 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 05:57] TB 1st & 10  @ HOU 49
+(RB) Jacques Patrick is brought down for a 0 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 05:37] TB 2nd & 10  @ HOU 49
+(RB) Jacques Patrick is brought down for a 5 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 05:12] TB 3rd & 15  @ TB 46
+(RB) Jacques Patrick is brought down for a 8 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 04:53] TB 4th & 23  @ TB 38
+(P) Jake Schum punts the ball a good 48 yards!
+Roughnecks will start their drive on the HOU 14.
+
+ -= Roughnecks - 18 ; Vipers - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 3:09
+Plays: 7 Run ; 0 Pass
+Yards: 12
+===============================
+
+
+[Q3 | 04:32] HOU 1st & 10  @ HOU 14
+(RB) Andrew Williams runs right for a 2 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q3 | 04:04] HOU 2nd & 8  @ HOU 16
+(RB) Andrew Williams runs left for a 22 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q3 | 03:24] HOU 1st & 10  @ HOU 38
+(RB) James Butler is brought down for a 5 yard loss.
+The tackle made by (LB) Lucas Wacha.
+
+[Q3 | 02:50] HOU 2nd & 15  @ HOU 33
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (LB) Lucas Wacha.
+
+[Q3 | 02:17] HOU 3rd & 15  @ HOU 33
+(RB) James Butler is brought down for a 6 yard loss.
+The tackle made by (DT) Nikita Whitlock.
+
+[Q3 | 01:50] HOU 4th & 21  @ HOU 27
+(P) Ajene Rehkow punts the ball a good 57 yards!
+Vipers will start their drive on the TB 16.
+
+ -= Vipers - 12 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 3:02
+Plays: 5 Run ; 0 Pass
+Yards: 13
+===============================
+
+
+[Q3 | 01:30] TB 1st & 10  @ TB 16
+(RB) De'Veon Smith is brought down for a 8 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q3 | 01:03] TB 2nd & 18  @ TB 8
+(RB) Jacques Patrick is brought down for a 0 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 00:40] TB 3rd & 18  @ TB 8
+(RB) De'Veon Smith runs left for a 3 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 00:22] TB 4th & 15  @ TB 11
+(P) Jake Schum punts the ball a good 49 yards!
+Roughnecks will start their drive on the HOU 40.
+
+ -= Roughnecks - 18 ; Vipers - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 1:30
+Plays: 3 Run ; 0 Pass
+Yards: -5
+===============================
+
+
+[Q3 | 00:00] HOU 1st & 10  @ HOU 40
+(RB) James Butler runs middle for a 7 yard gain!
+The tackle made by (DE) Obum Gwacham.
+
+[Q4 | 14:26] HOU 2nd & 3  @ HOU 47
+(RB) James Butler runs right for a 10 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q4 | 13:53] HOU 1st & 10  @ TB 43
+(RB) James Butler runs left for a 3 yard gain!
+The tackle made by (LB) Lucas Wacha.
+
+[Q4 | 13:21] HOU 2nd & 7  @ TB 40
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q4 | 12:51] HOU 3rd & 3  @ TB 36
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DT) Josh Banks.
+
+[Q4 | 12:14] HOU 4th & 3  @ TB 36
+(K) Sergio Castitllo will now attempt a 47 yard field goal.
+Field Goal!
+ -= Vipers - 12 ; Roughnecks - 21 =- 
+
+===============================
+Drive Summary: 
+Time: 2:56
+Plays: 5 Run ; 0 Pass
+Yards: 24
+===============================
+
+[Q4 | 12:04]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Vipers have elected (WR) Reece Horn to recieve.
+
+Ball hits the turf and rolls to a halt at the 11.
+Vipers will start their drive on the TB 11.
+
+
+[Q4 | 11:53] TB 1st & 10  @ TB 11
+(RB) Jacques Patrick is brought down for a 0 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 11:31] TB 2nd & 10  @ TB 11
+(RB) De'Veon Smith runs middle for a 3 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 11:05] TB 3rd & 7  @ TB 14
+(RB) De'Veon Smith runs left for a 11 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 10:35] TB 1st & 10  @ TB 25
+(RB) De'Veon Smith runs middle for a 23 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 10:10] TB 1st & 10  @ TB 48
+(RB) Jacques Patrick runs left for a 1 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 09:44] TB 2nd & 9  @ TB 49
+(RB) Jacques Patrick runs middle for a 24 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 09:17] TB 1st & 10  @ HOU 27
+(RB) Jacques Patrick runs right for a 25 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 08:49] TB 1st & Goal  @ HOU 2
+(RB) De'Veon Smith runs middle for a 2 yard gain!
+Touchdown, Vipers!
+
+ -= Roughnecks - 21 ; Vipers - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 3:29
+Plays: 8 Run ; 0 Pass
+Yards: 89
+===============================
+
+[Q4 | 08:24]  | Kick-off!
+
+The Vipers' (K) Andrew Franks will kick the ball.
+Roughnecks have elected (CB) Ajene Harris to recieve.
+
+(CB) Ajene Harris catches the ball from the 18.
+(CB) Ajene Harris is tackled for a 1 yard loss.
+Roughnecks to start their drive on the HOU 17.
+
+
+[Q4 | 08:11] HOU 1st & 10  @ HOU 17
+(RB) James Butler is brought down for a 8 yard loss.
+The tackle made by (DE) Deiontrez Mount.
+
+[Q4 | 07:33] HOU 2nd & 18  @ HOU 9
+(RB) Andrew Williams runs right for a 1 yard gain!
+The tackle made by (LB) Lucas Wacha.
+
+[Q4 | 07:07] HOU 3rd & 17  @ HOU 10
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (DT) Josh Banks.
+
+[Q4 | 06:32] HOU 4th & 17  @ HOU 10
+(P) Ajene Rehkow punts the ball 45 yards.
+Vipers will start their drive on the TB 45.
+
+ -= Vipers - 18 ; Roughnecks - 21 =- 
+
+===============================
+Drive Summary: 
+Time: 1:52
+Plays: 3 Run ; 0 Pass
+Yards: -7
+===============================
+
+
+[Q4 | 06:19] TB 1st & 10  @ TB 45
+(RB) Jacques Patrick is brought down for a 8 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q4 | 05:49] TB 2nd & 18  @ TB 37
+(RB) Jacques Patrick runs right for a 11 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 05:21] TB 3rd & 7  @ TB 48
+(RB) Jacques Patrick runs middle for a 12 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 04:55] TB 1st & 10  @ HOU 40
+(RB) Jacques Patrick is brought down for a 6 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 04:35] TB 2nd & 16  @ HOU 46
+(RB) Jacques Patrick runs left for a 3 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 04:11] TB 3rd & 13  @ HOU 43
+(RB) De'Veon Smith is brought down for a 2 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 03:44] TB 4th & 15  @ HOU 45
+(P) Jake Schum punts the ball 44 yards.
+Roughnecks will start their drive on the HOU 1.
+
+ -= Roughnecks - 21 ; Vipers - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 3:04
+Plays: 6 Run ; 0 Pass
+Yards: 10
+===============================
+
+
+[Q4 | 03:15] HOU 1st & 10  @ HOU 1
+(RB) James Butler runs middle for a 5 yard gain!
+The tackle made by (DE) Deiontrez Mount.
+
+[Q4 | 02:51] HOU 2nd & 5  @ HOU 6
+(RB) James Butler runs right for a 2 yard gain!
+The tackle made by (DT) Nikita Whitlock.
+
+[Q4 | 02:24] HOU 3rd & 3  @ HOU 8
+(RB) James Butler runs left for a 2 yard gain!
+The tackle made by (DT) Josh Banks.
+
+[Q4 | 01:51] HOU 4th & 1  @ HOU 10
+(QB) PJ Walker runs up the middle for a 3 gain.
+(LB) Lucas Wacha with the tackle.
+
+[Q4 | 01:18] HOU 1st & 10  @ HOU 13
+(RB) James Butler carries the ball for a 3 gain but gets stripped!
+Ball recovery by (DE) Deiontrez Mount on the HOU 16.
+
+
+[Q4 | 00:39] HOU 2nd & 7  @ HOU 16
+(RB) James Butler runs middle for a 7 yard gain!
+The tackle made by (DT) Nikita Whitlock.
+
+End of Regulation.
+ -= Vipers - 18 ; Roughnecks - 21 =- 
+
+===============================
+Drive Summary: 
+Time: 3:15
+Plays: 6 Run ; 0 Pass
+Yards: 22
+===============================
+
+
+The Houston Roughnecks at The Tampa Bay Vipers Game Stats:
+======================= HOU ======== TB
+Score:                  21           18
+Time of Possession:     32:32        27:28
+Total Yards:            325          219
+Pass Yards:             0           0
+Run Yards:              325          219
+Turnovers:              0            0

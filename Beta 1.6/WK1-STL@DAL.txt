@@ -1,0 +1,928 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Battlehawks have elected (WR) De'Monray Pierson-El to recieve.
+
+(WR) De'Monray Pierson-El catches the ball from the 10.
+(WR) De'Monray Pierson-El is tackled after a short 5 yard gain.
+Battlehawks to start their drive on the STL 15.
+
+
+[Q1 | 14:48] STL 1st & 10  @ STL 15
+(RB) Cristine Michael carries the ball for a 10 gain but gets stripped!
+Ball recovery by (LB) Greer Martini on the STL 25.
+
+
+[Q1 | 14:29] STL 1st & 10  @ STL 25
+(RB) Matt Jones is brought down for a 2 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 14:12] STL 2nd & 12  @ STL 23
+(RB) Cristine Michael is brought down for a 0 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q1 | 13:50] STL 3rd & 12  @ STL 23
+(RB) Keith Ford runs left for a 1 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 13:27] STL 4th & 11  @ STL 24
+(P) Marquette King punts the ball a good 57 yards!
+Renegades will start their drive on the DAL 19.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:42
+Plays: 4 Run ; 0 Pass
+Yards: 9
+===============================
+
+
+[Q1 | 13:06] DAL 1st & 10  @ DAL 19
+(RB) Cameron Artis-Payne runs left for a 1 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 12:45] DAL 2nd & 9  @ DAL 20
+(RB) Cameron Artis-Payne runs right for a 1 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 12:20] DAL 3rd & 8  @ DAL 21
+(RB) Lance Dunbar runs right for a 1 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q1 | 12:01] DAL 4th & 7  @ DAL 22
+(P) Drew Galitz punts the ball a good 55 yards!
+Battlehawks will start their drive on the STL 23.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:22
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q1 | 11:44] STL 1st & 10  @ STL 23
+(RB) Matt Jones is brought down for a 8 yard loss.
+The tackle made by (DT) Tony Gueard.
+
+[Q1 | 11:16] STL 2nd & 18  @ STL 15
+(RB) Matt Jones runs middle for a 3 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 10:58] STL 3rd & 15  @ STL 18
+(RB) Keith Ford is brought down for a 0 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 10:34] STL 4th & 15  @ STL 18
+(P) Marquette King punts the ball a good 52 yards!
+Renegades will start their drive on the DAL 30.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:33
+Plays: 3 Run ; 0 Pass
+Yards: -5
+===============================
+
+
+[Q1 | 10:11] DAL 1st & 10  @ DAL 30
+(RB) Lance Dunbar runs right for a 10 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 09:48] DAL 1st & 10  @ DAL 40
+(RB) Marquis Young is brought down for a 7 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 09:29] DAL 2nd & 17  @ DAL 33
+(RB) Cameron Artis-Payne runs middle for a 1 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 09:05] DAL 3rd & 16  @ DAL 34
+(RB) Lance Dunbar runs middle for a 1 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 08:42] DAL 4th & 15  @ DAL 35
+(P) Drew Galitz punts the ball 47 yards.
+Battlehawks will start their drive on the STL 18.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:45
+Plays: 4 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q1 | 08:26] STL 1st & 10  @ STL 18
+(RB) Lenard Tillery runs middle for a 3 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 07:59] STL 2nd & 7  @ STL 21
+(RB) Matt Jones runs left for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 07:30] STL 3rd & 5  @ STL 23
+(RB) Cristine Michael runs middle for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 07:01] STL 4th & 3  @ STL 25
+(P) Marquette King punts the ball 40 yards.
+Renegades will start their drive on the DAL 35.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:39
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q1 | 06:47] DAL 1st & 10  @ DAL 35
+(RB) Lance Dunbar runs right for a 2 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q1 | 06:27] DAL 2nd & 8  @ DAL 37
+(RB) Marquis Young is brought down for a 1 yard loss.
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 05:58] DAL 3rd & 9  @ DAL 36
+(RB) Cameron Artis-Payne is brought down for a 0 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 05:30] DAL 4th & 9  @ DAL 36
+(P) Drew Galitz punts the ball a good 54 yards!
+Battlehawks will start their drive on the STL 10.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:41
+Plays: 3 Run ; 0 Pass
+Yards: 1
+===============================
+
+
+[Q1 | 05:06] STL 1st & 10  @ STL 10
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (DT) Tony Gueard.
+
+[Q1 | 04:36] STL 2nd & 10  @ STL 10
+(RB) Matt Jones runs left for a 4 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 04:07] STL 3rd & 6  @ STL 14
+(RB) Keith Ford is brought down for a 0 yard loss.
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 03:37] STL 4th & 6  @ STL 14
+(P) Marquette King punts the ball a good 51 yards!
+Renegades will start their drive on the DAL 35.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:41
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q1 | 03:25] DAL 1st & 10  @ DAL 35
+(RB) Lance Dunbar gets caught in the back field. Fumbles the ball.
+Ball recovery by (LB Terence Gavin) on the DAL 29.
+
+
+[Q1 | 03:02] DAL 2nd & 16  @ DAL 29
+(RB) Cameron Artis-Payne runs left for a 2 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q1 | 02:44] DAL 3rd & 14  @ DAL 31
+(RB) Cameron Artis-Payne runs left for a 7 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 02:18] DAL 4th & 7  @ DAL 38
+(P) Drew Galitz punts the ball 38 yards.
+Battlehawks will start their drive on the STL 24.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:33
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q1 | 01:52] STL 1st & 10  @ STL 24
+(RB) Matt Jones runs left for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 01:27] STL 2nd & 8  @ STL 26
+(RB) Lenard Tillery runs left for a 1 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q1 | 01:07] STL 3rd & 7  @ STL 27
+(RB) Cristine Michael runs middle for a 2 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q1 | 00:44] STL 4th & 5  @ STL 29
+(P) Marquette King punts the ball a good 52 yards!
+Renegades will start their drive on the DAL 19.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:33
+Plays: 3 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q1 | 00:19] DAL 1st & 10  @ DAL 19
+(RB) Cameron Artis-Payne runs right for a 2 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 14:57] DAL 2nd & 8  @ DAL 21
+(RB) Marquis Young runs middle for a 1 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 14:30] DAL 3rd & 7  @ DAL 22
+(RB) Marquis Young runs left for a 3 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 14:00] DAL 4th & 4  @ DAL 25
+(P) Drew Galitz punts the ball a good 49 yards!
+Battlehawks will start their drive on the STL 26.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:40
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q2 | 13:39] STL 1st & 10  @ STL 26
+(RB) Cristine Michael runs right for a 1 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 13:13] STL 2nd & 9  @ STL 27
+(RB) Lenard Tillery runs middle for a 1 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 12:56] STL 3rd & 8  @ STL 28
+(RB) Cristine Michael runs middle for a 4 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 12:27] STL 4th & 4  @ STL 32
+(P) Marquette King punts the ball 47 yards.
+Renegades will start their drive on the DAL 21.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:34
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q2 | 12:05] DAL 1st & 10  @ DAL 21
+(RB) Lance Dunbar runs right for a 3 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 11:44] DAL 2nd & 7  @ DAL 24
+(RB) Cameron Artis-Payne is brought down for a 0 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 11:23] DAL 3rd & 7  @ DAL 24
+(RB) Cameron Artis-Payne is brought down for a 0 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 10:55] DAL 4th & 7  @ DAL 24
+(P) Drew Galitz punts the ball a good 59 yards!
+Battlehawks will start their drive on the STL 17.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:28
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q2 | 10:37] STL 1st & 10  @ STL 17
+(RB) Keith Ford runs right for a 2 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q2 | 10:18] STL 2nd & 8  @ STL 19
+(RB) Lenard Tillery runs right for a 4 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 09:56] STL 3rd & 4  @ STL 23
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 09:37] STL 4th & 4  @ STL 23
+(P) Marquette King punts the ball a good 54 yards!
+Renegades will start their drive on the DAL 23.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:15
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q2 | 09:22] DAL 1st & 10  @ DAL 23
+(RB) Cameron Artis-Payne runs right for a 3 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q2 | 08:53] DAL 2nd & 7  @ DAL 26
+(RB) Cameron Artis-Payne runs right for a 2 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 08:33] DAL 3rd & 5  @ DAL 28
+(RB) Lance Dunbar runs left for a 2 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q2 | 08:05] DAL 4th & 3  @ DAL 30
+(P) Drew Galitz punts the ball 39 yards.
+Battlehawks will start their drive on the STL 31.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:41
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q2 | 07:41] STL 1st & 10  @ STL 31
+(RB) Lenard Tillery runs middle for a 3 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q2 | 07:11] STL 2nd & 7  @ STL 34
+(RB) Lenard Tillery runs right for a 1 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q2 | 06:53] STL 3rd & 6  @ STL 35
+(RB) Cristine Michael runs middle for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 06:27] STL 4th & 4  @ STL 37
+(P) Marquette King punts the ball 40 yards.
+Renegades will start their drive on the DAL 23.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:26
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q2 | 06:15] DAL 1st & 10  @ DAL 23
+(RB) Marquis Young runs right for a 1 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 05:48] DAL 2nd & 9  @ DAL 24
+(RB) Marquis Young is brought down for a 4 yard loss.
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 05:23] DAL 3rd & 13  @ DAL 20
+(RB) Marquis Young runs middle for a 2 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q2 | 04:56] DAL 4th & 11  @ DAL 22
+(P) Drew Galitz punts the ball 41 yards.
+Battlehawks will start their drive on the STL 37.
+
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:36
+Plays: 3 Run ; 0 Pass
+Yards: -1
+===============================
+
+
+[Q2 | 04:39] STL 1st & 10  @ STL 37
+(RB) Keith Ford runs middle for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 04:15] STL 2nd & 8  @ STL 39
+(RB) Lenard Tillery runs left for a 3 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 03:52] STL 3rd & 5  @ STL 42
+(RB) Lenard Tillery runs left for a 16 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 03:35] STL 1st & 10  @ DAL 42
+(RB) Cristine Michael runs middle for a 4 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 03:06] STL 2nd & 6  @ DAL 38
+(RB) Lenard Tillery runs right for a 3 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 02:44] STL 3rd & 3  @ DAL 35
+(RB) Matt Jones runs right for a 1 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 02:15] STL 4th & 2  @ DAL 34
+(QB) Jordan Ta'amu runs up the middle for a 1 loss.
+The stop made by (LB) Ansantay Brown.
+
+Turnover on downs.
+
+ -= Renegades - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:54
+Plays: 7 Run ; 0 Pass
+Yards: 28
+===============================
+
+
+[Q2 | 01:45] DAL 1st & 10  @ DAL 35
+(RB) Lance Dunbar is brought down for a 6 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 01:22] DAL 2nd & 16  @ DAL 29
+(RB) Lance Dunbar runs right for a 14 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 01:02] DAL 3rd & 2  @ DAL 43
+(RB) Lance Dunbar runs left for a 1 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 00:34] DAL 4th & 1  @ DAL 44
+(QB) Landry Jones runs up the middle for a 2 gain.
+(DL) Casey Sayles with the tackle.
+
+[Q2 | 00:05] DAL 1st & 10  @ DAL 46
+(RB) Lance Dunbar runs middle for a 17 yard gain!
+The tackle made by (DL) Will Clarke.
+
+End of first half.
+ -= Battlehawks - 0 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:45
+Plays: 5 Run ; 0 Pass
+Yards: 28
+===============================
+
+[Q3 | 15:00]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Renegades have elected (WR) Fynn Nage to recieve.
+
+(WR) Fynn Nage catches the ball from the 10.
+(WR) Fynn Nage is tackled after a short 1 yard gain.
+Renegades to start their drive on the DAL 11.
+
+
+[Q3 | 14:49] DAL 1st & 10  @ DAL 11
+(RB) Marquis Young runs right for a 4 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 14:22] DAL 2nd & 6  @ DAL 15
+(RB) Cameron Artis-Payne runs left for a 3 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 13:56] DAL 3rd & 3  @ DAL 18
+(RB) Cameron Artis-Payne runs left for a 4 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 13:28] DAL 1st & 10  @ DAL 22
+(RB) Marquis Young runs right for a 3 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q3 | 12:59] DAL 2nd & 7  @ DAL 25
+(RB) Lance Dunbar runs middle for a 4 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 12:37] DAL 3rd & 3  @ DAL 29
+(RB) Cameron Artis-Payne runs left for a 2 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 12:12] DAL 4th & 1  @ DAL 31
+(QB) Landry Jones runs up the middle for a 1 gain.
+(LB) Dexter McCoil with the tackle.
+
+[Q3 | 11:42] DAL 1st & 10  @ DAL 32
+(RB) Lance Dunbar runs left for a 12 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q3 | 11:23] DAL 1st & 10  @ DAL 44
+(RB) Marquis Young runs left for a 10 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q3 | 11:01] DAL 1st & 10  @ STL 46
+(RB) Marquis Young runs middle for a 7 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 10:34] DAL 2nd & 3  @ STL 39
+(RB) Cameron Artis-Payne runs right for a 1 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 10:04] DAL 3rd & 2  @ STL 38
+(RB) Marquis Young runs right for a 1 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 09:34] DAL 4th & 1  @ STL 37
+(QB) Landry Jones runs up the middle for a 2 gain.
+(S) Will Hill with the tackle.
+
+[Q3 | 09:09] DAL 1st & 10  @ STL 35
+(RB) Lance Dunbar runs middle for a 35 yard gain!
+Touchdown, Renegades!
+
+ -= Battlehawks - 0 ; Renegades - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 6:03
+Plays: 14 Run ; 0 Pass
+Yards: 89
+===============================
+
+[Q3 | 08:46]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Battlehawks have elected (WR) De'Monray Pierson-El to recieve.
+
+(WR) De'Monray Pierson-El catches the ball from the 21.
+(WR) De'Monray Pierson-El is immediately tackled. No gain.
+Battlehawks to start their drive on the STL 21.
+
+
+[Q3 | 08:32] STL 1st & 10  @ STL 21
+(RB) Lenard Tillery runs left for a 4 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q3 | 08:03] STL 2nd & 6  @ STL 25
+(RB) Keith Ford runs right for a 4 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q3 | 07:37] STL 3rd & 2  @ STL 29
+(RB) Cristine Michael is brought down for a 5 yard loss.
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 07:07] STL 4th & 7  @ STL 24
+(P) Marquette King punts the ball a good 59 yards!
+Renegades will start their drive on the DAL 17.
+
+ -= Renegades - 6 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:38
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q3 | 06:54] DAL 1st & 10  @ DAL 17
+(RB) Lance Dunbar runs right for a 5 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q3 | 06:20] DAL 2nd & 5  @ DAL 22
+(RB) Lance Dunbar runs right for a 2 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q3 | 05:51] DAL 3rd & 3  @ DAL 24
+(RB) Lance Dunbar runs right for a 3 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q3 | 05:14] DAL 1st & 10  @ DAL 27
+(RB) Lance Dunbar is brought down for a 0 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q3 | 04:31] DAL 2nd & 10  @ DAL 27
+(RB) Lance Dunbar runs middle for a 2 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 03:51] DAL 3rd & 8  @ DAL 29
+(RB) Marquis Young runs left for a 2 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 03:25] DAL 4th & 6  @ DAL 31
+(P) Drew Galitz punts the ball a good 54 yards!
+Battlehawks will start their drive on the STL 15.
+
+ -= Battlehawks - 0 ; Renegades - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 3:42
+Plays: 6 Run ; 0 Pass
+Yards: 14
+===============================
+
+
+[Q3 | 03:12] STL 1st & 10  @ STL 15
+(RB) Lenard Tillery runs middle for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 02:45] STL 2nd & 8  @ STL 17
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (DT) Tony Gueard.
+
+[Q3 | 02:16] STL 3rd & 8  @ STL 17
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q3 | 01:54] STL 4th & 8  @ STL 17
+(P) Marquette King punts the ball a good 57 yards!
+Renegades will start their drive on the DAL 26.
+
+ -= Renegades - 6 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:33
+Plays: 3 Run ; 0 Pass
+Yards: 2
+===============================
+
+
+[Q3 | 01:39] DAL 1st & 10  @ DAL 26
+(RB) Cameron Artis-Payne runs middle for a 4 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q3 | 01:01] DAL 2nd & 6  @ DAL 30
+(RB) Cameron Artis-Payne runs right for a 30 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 00:23] DAL 1st & 10  @ STL 40
+(RB) Cameron Artis-Payne runs right for a 1 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q4 | 14:42] DAL 2nd & 9  @ STL 39
+(RB) Cameron Artis-Payne runs middle for a 1 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 14:15] DAL 3rd & 8  @ STL 38
+(RB) Marquis Young runs left for a 2 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q4 | 13:41] DAL 4th & 6  @ STL 36
+(K) Austin MacGinnis will now attempt a 48 yard field goal.
+Field Goal!
+ -= Battlehawks - 0 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 3:07
+Plays: 5 Run ; 0 Pass
+Yards: 38
+===============================
+
+[Q4 | 13:32]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Battlehawks have elected (WR) Keith Mumphrey to recieve.
+
+(WR) Keith Mumphrey catches the ball from the 22.
+(WR) Keith Mumphrey is tackled after a short 4 yard gain.
+Battlehawks to start their drive on the STL 26.
+
+
+[Q4 | 13:17] STL 1st & 10  @ STL 26
+(RB) Cristine Michael runs left for a 7 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 12:57] STL 2nd & 3  @ STL 33
+(RB) Matt Jones runs middle for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 12:29] STL 3rd & 1  @ STL 35
+(RB) Lenard Tillery runs right for a 3 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q4 | 12:00] STL 1st & 10  @ STL 38
+(RB) Matt Jones runs right for a 1 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 11:39] STL 2nd & 9  @ STL 39
+(RB) Keith Ford runs middle for a 5 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q4 | 11:19] STL 3rd & 4  @ STL 44
+(RB) Matt Jones runs middle for a 2 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q4 | 11:02] STL 4th & 2  @ STL 46
+(QB) Jordan Ta'amu gets stuck at the line. No gain.
+
+Turnover on downs.
+
+ -= Renegades - 9 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:45
+Plays: 7 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q4 | 10:32] DAL 1st & 10  @ STL 46
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (DL) Casey Sayles.
+
+[Q4 | 09:53] DAL 2nd & 10  @ STL 46
+(RB) Cameron Artis-Payne runs middle for a 3 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q4 | 09:25] DAL 3rd & 7  @ STL 43
+(RB) Cameron Artis-Payne runs right for a 1 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q4 | 08:49] DAL 4th & 6  @ STL 42
+(P) Drew Galitz punts the ball 39 yards.
+Battlehawks will start their drive on the STL 3.
+
+ -= Battlehawks - 0 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:59
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q4 | 08:33] STL 1st & 10  @ STL 3
+(RB) Keith Ford runs left for a 4 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q4 | 08:05] STL 2nd & 6  @ STL 7
+(RB) Cristine Michael runs middle for a 2 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 07:46] STL 3rd & 4  @ STL 9
+(RB) Lenard Tillery runs left for a 7 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 07:19] STL 1st & 10  @ STL 16
+(RB) Cristine Michael is brought down for a 0 yard loss.
+The tackle made by (DT) Tony Gueard.
+
+[Q4 | 06:58] STL 2nd & 10  @ STL 16
+(RB) Cristine Michael is brought down for a 0 yard loss.
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 06:32] STL 3rd & 10  @ STL 16
+(RB) Cristine Michael runs middle for a 8 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 06:13] STL 4th & 2  @ STL 24
+(QB) Jordan Ta'amu runs up the middle for a 1 loss.
+The stop made by (DE) Winston Craig.
+
+Turnover on downs.
+
+ -= Renegades - 9 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:47
+Plays: 7 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q4 | 05:46] DAL 1st & 10  @ STL 23
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q4 | 05:14] DAL 2nd & 10  @ STL 23
+(RB) Lance Dunbar runs left for a 17 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q4 | 04:45] DAL 1st & Goal  @ STL 6
+(RB) Lance Dunbar runs left for a 4 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q4 | 04:04] DAL 2nd & Goal  @ STL 2
+(RB) Lance Dunbar runs left for a 2 yard gain!
+Touchdown, Renegades!
+
+ -= Battlehawks - 0 ; Renegades - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 2:13
+Plays: 4 Run ; 0 Pass
+Yards: 23
+===============================
+
+[Q4 | 03:33]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Battlehawks have elected (WR) De'Monray Pierson-El to recieve.
+
+(WR) De'Monray Pierson-El catches the ball from the 12.
+(WR) De'Monray Pierson-El is tackled after a short 5 yard gain.
+Battlehawks to start their drive on the STL 17.
+
+
+[Q4 | 03:20] STL 1st & 10  @ STL 17
+(RB) Lenard Tillery is brought down for a 4 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 02:57] STL 2nd & 14  @ STL 13
+(RB) Cristine Michael runs left for a 13 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 02:36] STL 3rd & 1  @ STL 26
+(RB) Matt Jones runs right for a 3 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q4 | 02:13] STL 1st & 10  @ STL 29
+(RB) Keith Ford runs middle for a 3 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 01:44] STL 2nd & 7  @ STL 32
+(RB) Lenard Tillery runs left for a 4 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 01:19] STL 3rd & 3  @ STL 36
+(RB) Lenard Tillery is brought down for a 6 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 00:57] STL 4th & 9  @ STL 30
+(P) Marquette King punts the ball 37 yards.
+Renegades will start their drive on the DAL 33.
+
+ -= Renegades - 15 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:50
+Plays: 6 Run ; 0 Pass
+Yards: 13
+===============================
+
+
+[Q4 | 00:30] DAL 1st & 10  @ DAL 33
+(RB) Lance Dunbar runs left for a 2 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q4 | 00:04] DAL 2nd & 8  @ DAL 35
+(RB) Marquis Young runs left for a 12 yard gain!
+The tackle made by (LB Terence Gavin).
+
+End of Regulation.
+ -= Battlehawks - 0 ; Renegades - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 0:30
+Plays: 2 Run ; 0 Pass
+Yards: 14
+===============================
+
+
+The St. Louis Battlehawks at The Dallas Renegades Game Stats:
+======================= STL ======== DAL
+Score:                  0            15
+Time of Possession:     27:44        32:16
+Total Yards:            71          193
+Pass Yards:             0           0
+Run Yards:              71           193
+Turnovers:              0            0

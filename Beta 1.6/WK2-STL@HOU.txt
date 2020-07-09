@@ -1,0 +1,851 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Battlehawks have elected (WR) De'Monray Pierson-El to recieve.
+
+(WR) De'Monray Pierson-El catches the ball from the 21.
+(WR) De'Monray Pierson-El is tackled after a 11 yard gain.
+Battlehawks to start their drive on the STL 32.
+
+
+[Q1 | 14:43] STL 1st & 10  @ STL 32
+(RB) Matt Jones carries the ball for a 10 gain but gets stripped!
+Ball recovery by (DE) Cashaud Lyons on the STL 42.
+
+
+[Q1 | 14:24] STL 1st & 10  @ STL 42
+(RB) Lenard Tillery runs right for a 4 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 14:00] STL 2nd & 6  @ STL 46
+(RB) Keith Ford runs left for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 13:36] STL 3rd & 4  @ STL 48
+(RB) Lenard Tillery runs left for a 4 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q1 | 13:09] STL 1st & 10  @ HOU 48
+(RB) Matt Jones runs middle for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 12:45] STL 2nd & 8  @ HOU 46
+(RB) Lenard Tillery runs middle for a 5 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q1 | 12:25] STL 3rd & 3  @ HOU 41
+(RB) Matt Jones runs left for a 2 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 11:55] STL 4th & 1  @ HOU 39
+(QB) Jordan Ta'amu runs up the middle for a 2 gain.
+(LB) Marquis Gates with the tackle.
+
+[Q1 | 11:25] STL 1st & 10  @ HOU 37
+(RB) Matt Jones runs middle for a 1 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 10:56] STL 2nd & 9  @ HOU 36
+(RB) Lenard Tillery is brought down for a 5 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 10:29] STL 3rd & 14  @ HOU 41
+(RB) Lenard Tillery is brought down for a 1 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 09:59] STL 4th & 15  @ HOU 42
+(P) Marquette King punts the ball 22 yards.
+Roughnecks will start their drive on the HOU 20.
+
+ -= Roughnecks - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 5:06
+Plays: 11 Run ; 0 Pass
+Yards: 26
+===============================
+
+
+[Q1 | 09:37] HOU 1st & 10  @ HOU 20
+(RB) Andrew Williams runs right for a 4 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 09:10] HOU 2nd & 6  @ HOU 24
+(RB) Andrew Williams runs right for a 1 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q1 | 08:52] HOU 3rd & 5  @ HOU 25
+(RB) Andrew Williams runs middle for a 9 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q1 | 08:24] HOU 1st & 10  @ HOU 34
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q1 | 08:06] HOU 2nd & 6  @ HOU 38
+(RB) James Butler runs left for a 4 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 07:43] HOU 3rd & 2  @ HOU 42
+(RB) James Butler runs left for a 5 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 07:24] HOU 1st & 10  @ HOU 47
+(RB) James Butler runs middle for a 3 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 06:59] HOU 2nd & 7  @  the '50
+(RB) James Butler runs middle for a 2 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 06:39] HOU 3rd & 5  @ STL 48
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 06:16] HOU 4th & 5  @ STL 48
+(P) Ajene Rehkow punts the ball 40 yards.
+Battlehawks will start their drive on the STL 8.
+
+ -= Battlehawks - 0 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 3:45
+Plays: 9 Run ; 0 Pass
+Yards: 32
+===============================
+
+
+[Q1 | 05:52] STL 1st & 10  @ STL 8
+(RB) Cristine Michael runs middle for a 4 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 05:24] STL 2nd & 6  @ STL 12
+(RB) Lenard Tillery runs middle for a 1 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 04:58] STL 3rd & 5  @ STL 13
+(RB) Lenard Tillery runs middle for a 3 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q1 | 04:31] STL 4th & 2  @ STL 16
+(QB) Jordan Ta'amu runs up the middle for a 1 loss.
+The stop made by (DE) Cashaud Lyons.
+
+Turnover on downs.
+
+ -= Roughnecks - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:48
+Plays: 4 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q1 | 04:04] HOU 1st & 10  @ STL 15
+(RB) James Butler carries the ball for a 3 gain but gets stripped!
+Ball recovery by (DL) Andrew Ankrah on the STL 12.
+
+
+[Q1 | 03:36] HOU 2nd & 7  @ STL 12
+(RB) James Butler runs right for a 9 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 03:18] HOU 1st & Goal  @ STL 3
+(RB) James Butler is brought down for a 8 yard loss.
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 02:49] HOU 2nd & Goal  @ STL 11
+(RB) Andrew Williams runs right for a 1 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q1 | 02:27] HOU 3rd & Goal  @ STL 10
+(RB) James Butler runs left for a 3 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q1 | 02:02] HOU 4th & Goal  @ STL 7
+(K) Sergio Castitllo will now attempt a 19 yard field goal.
+Field Goal!
+ -= Battlehawks - 0 ; Roughnecks - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 2:12
+Plays: 5 Run ; 0 Pass
+Yards: 8
+===============================
+
+[Q1 | 01:52]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Battlehawks have elected (WR) Keith Mumphrey to recieve.
+
+Ball hits the turf and rolls to a halt at the 14.
+Battlehawks will start their drive on the STL 14.
+
+
+[Q1 | 01:40] STL 1st & 10  @ STL 14
+(RB) Keith Ford runs middle for a 4 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 01:10] STL 2nd & 6  @ STL 18
+(RB) Keith Ford runs right for a 5 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 00:52] STL 3rd & 1  @ STL 23
+(RB) Keith Ford runs middle for a 10 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q1 | 00:28] STL 1st & 10  @ STL 33
+(RB) Keith Ford runs left for a 3 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 14:58] STL 2nd & 7  @ STL 36
+(RB) Keith Ford runs right for a 3 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 14:28] STL 3rd & 4  @ STL 39
+(RB) Cristine Michael runs left for a 5 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 14:02] STL 1st & 10  @ STL 44
+(RB) Cristine Michael runs left for a 4 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 13:39] STL 2nd & 6  @ STL 48
+(RB) Cristine Michael gets caught in the back field. Fumbles the ball.
+Ball recovery by (LB) Beniquez Brown on the STL 43.
+
+
+[Q2 | 13:16] STL 3rd & 11  @ STL 43
+(RB) Matt Jones is brought down for a 0 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 12:57] STL 4th & 11  @ STL 43
+(P) Marquette King punts the ball 42 yards.
+Roughnecks will start their drive on the HOU 15.
+
+ -= Roughnecks - 3 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 4:05
+Plays: 9 Run ; 0 Pass
+Yards: 29
+===============================
+
+
+[Q2 | 12:35] HOU 1st & 10  @ HOU 15
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 11:55] HOU 2nd & 10  @ HOU 15
+(RB) Andrew Williams runs left for a 2 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 11:28] HOU 3rd & 8  @ HOU 17
+(RB) Andrew Williams gets caught in the back field. Fumbles the ball.
+Ball recovery by (DL) Dewayne Hendrix on the HOU 12.
+
+
+[Q2 | 10:56] HOU 4th & 13  @ HOU 12
+(P) Ajene Rehkow punts the ball a good 58 yards!
+Battlehawks will start their drive on the STL 30.
+
+ -= Battlehawks - 0 ; Roughnecks - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 2:06
+Plays: 3 Run ; 0 Pass
+Yards: -3
+===============================
+
+
+[Q2 | 10:29] STL 1st & 10  @ STL 30
+(RB) Lenard Tillery runs right for a 17 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 10:08] STL 1st & 10  @ STL 47
+(RB) Lenard Tillery runs middle for a 9 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 09:39] STL 2nd & 1  @ HOU 44
+(RB) Keith Ford runs right for a 6 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 09:17] STL 1st & 10  @ HOU 38
+(RB) Keith Ford runs middle for a 8 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 08:47] STL 2nd & 2  @ HOU 30
+(RB) Matt Jones is brought down for a 0 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 08:21] STL 3rd & 2  @ HOU 30
+(RB) Cristine Michael runs middle for a 3 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 07:55] STL 1st & 10  @ HOU 27
+(RB) Cristine Michael runs right for a 4 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 07:25] STL 2nd & 6  @ HOU 23
+(RB) Lenard Tillery runs left for a 12 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 07:05] STL 1st & 10  @ HOU 11
+(RB) Keith Ford runs left for a 3 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 06:39] STL 2nd & 7  @ HOU 8
+(RB) Matt Jones runs left for a 8 yard gain!
+Touchdown, Battlehawks!
+
+ -= Roughnecks - 3 ; Battlehawks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 4:17
+Plays: 10 Run ; 0 Pass
+Yards: 70
+===============================
+
+[Q2 | 06:12]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+(RB) James Butler catches the ball from the 5.
+(RB) James Butler is tackled after a short 2 yard gain.
+Roughnecks to start their drive on the HOU 7.
+
+
+[Q2 | 06:02] HOU 1st & 10  @ HOU 7
+(RB) James Butler runs left for a 26 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 05:35] HOU 1st & 10  @ HOU 33
+(RB) James Butler runs left for a 3 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 05:12] HOU 2nd & 7  @ HOU 36
+(RB) Andrew Williams runs right for a 7 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 04:43] HOU 1st & 10  @ HOU 43
+(RB) James Butler runs left for a 1 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 04:22] HOU 2nd & 9  @ HOU 44
+(RB) James Butler runs right for a 4 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 03:52] HOU 3rd & 5  @ HOU 48
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 03:22] HOU 4th & 5  @ HOU 48
+(P) Ajene Rehkow punts the ball a good 49 yards!
+Battlehawks will start their drive on the STL 3.
+
+ -= Battlehawks - 6 ; Roughnecks - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 3:09
+Plays: 6 Run ; 0 Pass
+Yards: 41
+===============================
+
+
+[Q2 | 02:53] STL 1st & 10  @ STL 3
+(RB) Matt Jones runs middle for a 3 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 02:29] STL 2nd & 7  @ STL 6
+(RB) Matt Jones is brought down for a 0 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 01:54] STL 3rd & 7  @ STL 6
+(RB) Lenard Tillery runs right for a 1 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 01:23] STL 4th & 6  @ STL 7
+(P) Marquette King punts the ball 45 yards.
+Roughnecks will start their drive on the HOU 48.
+
+ -= Roughnecks - 3 ; Battlehawks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:45
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q2 | 01:08] HOU 1st & 10  @ HOU 48
+(RB) Andrew Williams runs middle for a 12 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 00:47] HOU 1st & 10  @ STL 40
+(RB) James Butler is brought down for a 3 yard loss.
+The tackle made by (DL) Channing Ward.
+
+[Q2 | 00:29] HOU 2nd & 13  @ STL 43
+(RB) Andrew Williams runs middle for a 3 yard gain!
+The tackle made by (DL) Will Clarke.
+
+End of first half.
+ -= Battlehawks - 6 ; Roughnecks - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 1:08
+Plays: 3 Run ; 0 Pass
+Yards: 12
+===============================
+
+[Q3 | 15:00]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+(RB) James Butler catches the ball from the 14.
+(RB) James Butler is tackled for a 1 yard loss.
+Roughnecks to start their drive on the HOU 13.
+
+
+[Q3 | 14:49] HOU 1st & 10  @ HOU 13
+(RB) James Butler runs middle for a 11 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 14:25] HOU 1st & 10  @ HOU 24
+(RB) James Butler is brought down for a 6 yard loss.
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 14:00] HOU 2nd & 16  @ HOU 18
+(RB) Andrew Williams carries the ball for a 6 gain but gets stripped!
+Ball recovery by (DL) Will Clarke on the HOU 24.
+
+
+[Q3 | 13:36] HOU 3rd & 10  @ HOU 24
+(RB) Andrew Williams runs middle for a 10 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 13:16] HOU 1st & 10  @ HOU 34
+(RB) Andrew Williams runs left for a 1 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q3 | 12:54] HOU 2nd & 9  @ HOU 35
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (DL) Casey Sayles.
+
+[Q3 | 12:33] HOU 3rd & 9  @ HOU 35
+(RB) Andrew Williams runs left for a 12 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q3 | 12:10] HOU 1st & 10  @ HOU 47
+(RB) James Butler is brought down for a 1 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q3 | 11:40] HOU 2nd & 11  @ HOU 46
+(RB) James Butler runs middle for a 7 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 11:11] HOU 3rd & 4  @ STL 47
+(RB) James Butler runs middle for a 3 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 10:42] HOU 4th & 1  @ STL 44
+(QB) PJ Walker runs up the middle for a 3 gain.
+(S) Will Hill with the tackle.
+
+[Q3 | 10:11] HOU 1st & 10  @ STL 41
+(RB) James Butler runs middle for a 2 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 09:45] HOU 2nd & 8  @ STL 39
+(RB) Andrew Williams runs middle for a 1 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 09:24] HOU 3rd & 7  @ STL 38
+(RB) James Butler runs right for a 18 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 08:54] HOU 1st & 10  @ STL 20
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 08:26] HOU 2nd & 9  @ STL 19
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 07:58] HOU 3rd & 9  @ STL 19
+(RB) Andrew Williams is brought down for a 5 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 07:41] HOU 4th & 14  @ STL 24
+(K) Sergio Castitllo will now attempt a 36 yard field goal.
+Field Goal!
+ -= Battlehawks - 6 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 7:19
+Plays: 17 Run ; 0 Pass
+Yards: 63
+===============================
+
+[Q3 | 07:30]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Battlehawks have elected (WR) De'Monray Pierson-El to recieve.
+
+Ball hits the turf at the 8 yard line
+and bounces into the endzone. Minor touchback.
+Battlehawks to start their drive on the STL 15.
+
+
+[Q3 | 07:18] STL 1st & 10  @ STL 15
+(RB) Keith Ford is brought down for a 1 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 06:57] STL 2nd & 11  @ STL 14
+(RB) Matt Jones runs right for a 4 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 06:38] STL 3rd & 7  @ STL 18
+(RB) Lenard Tillery is brought down for a 7 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 06:12] STL 4th & 14  @ STL 11
+(P) Marquette King punts the ball 41 yards.
+Roughnecks will start their drive on the HOU 48.
+
+ -= Roughnecks - 6 ; Battlehawks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:23
+Plays: 3 Run ; 0 Pass
+Yards: -4
+===============================
+
+
+[Q3 | 05:55] HOU 1st & 10  @ HOU 48
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 05:34] HOU 2nd & 9  @ HOU 49
+(RB) James Butler runs left for a 12 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 05:15] HOU 1st & 10  @ STL 39
+(RB) Andrew Williams carries the ball for a 14 gain but gets stripped!
+Ball recovery by (DL) Casey Sayles on the STL 25.
+
+
+[Q3 | 04:45] HOU 1st & 10  @ STL 25
+(RB) James Butler runs middle for a 2 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 04:16] HOU 2nd & 8  @ STL 23
+(RB) Andrew Williams runs middle for a 1 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 03:59] HOU 3rd & 7  @ STL 22
+(RB) James Butler runs middle for a 20 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 03:30] HOU 1st & Goal  @ STL 2
+(RB) James Butler runs right for a 2 yard gain!
+Touchdown, Roughnecks!
+
+ -= Battlehawks - 6 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:46
+Plays: 7 Run ; 0 Pass
+Yards: 52
+===============================
+
+[Q3 | 03:09]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Battlehawks have elected (WR) Keith Mumphrey to recieve.
+
+(WR) Keith Mumphrey catches the ball from the 13.
+(WR) Keith Mumphrey is tackled for a 0 yard loss.
+Battlehawks to start their drive on the STL 13.
+
+
+[Q3 | 02:58] STL 1st & 10  @ STL 13
+(RB) Keith Ford runs left for a 28 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 02:34] STL 1st & 10  @ STL 41
+(RB) Matt Jones runs left for a 31 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 02:08] STL 1st & 10  @ HOU 28
+(RB) Lenard Tillery runs right for a 2 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 01:48] STL 2nd & 8  @ HOU 26
+(RB) Cristine Michael runs middle for a 22 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 01:28] STL 1st & Goal  @ HOU 4
+(RB) Matt Jones is brought down for a 8 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 01:08] STL 2nd & Goal  @ HOU 12
+(RB) Cristine Michael runs middle for a 1 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 00:51] STL 3rd & Goal  @ HOU 11
+(RB) Cristine Michael runs middle for a 5 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 00:22] STL 4th & Goal  @ HOU 6
+(K) Taylor Russolino will now attempt a 16 yard field goal.
+Field Goal!
+ -= Roughnecks - 12 ; Battlehawks - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 2:47
+Plays: 7 Run ; 0 Pass
+Yards: 81
+===============================
+
+[Q3 | 00:11]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Roughnecks have elected (CB) Ajene Harris to recieve.
+
+(CB) Ajene Harris catches the ball from the 5.
+(CB) Ajene Harris returns the ball for an amazing 39 yards!
+(S) Will Hill with the saving tackle.
+Roughnecks to start their drive on the HOU 44.
+
+
+[Q3 | 14:50] HOU 1st & 10  @ HOU 44
+(RB) Andrew Williams runs left for a 3 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q4 | 14:12] HOU 2nd & 7  @ HOU 47
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 13:44] HOU 3rd & 6  @ HOU 48
+(RB) Andrew Williams runs left for a 8 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 13:08] HOU 1st & 10  @ STL 44
+(RB) Andrew Williams runs middle for a 4 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q4 | 12:43] HOU 2nd & 6  @ STL 40
+(RB) James Butler runs right for a 3 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q4 | 12:13] HOU 3rd & 3  @ STL 37
+(RB) Andrew Williams gets caught in the back field. Fumbles the ball.
+Ball recovery by (DL) Will Clarke on the STL 38.
+
+
+[Q4 | 11:38] HOU 4th & 4  @ STL 38
+(K) Sergio Castitllo will now attempt a 47 yard field goal.
+Field Goal!
+ -= Battlehawks - 9 ; Roughnecks - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 3:23
+Plays: 6 Run ; 0 Pass
+Yards: 18
+===============================
+
+[Q4 | 11:27]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Battlehawks have elected (WR) Keith Mumphrey to recieve.
+
+(WR) Keith Mumphrey catches the ball from the 9.
+(WR) Keith Mumphrey is tackled after a short 3 yard gain.
+Battlehawks to start their drive on the STL 12.
+
+
+[Q4 | 11:16] STL 1st & 10  @ STL 12
+(RB) Cristine Michael runs left for a 4 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q4 | 10:47] STL 2nd & 6  @ STL 16
+(RB) Keith Ford runs middle for a 4 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 10:28] STL 3rd & 2  @ STL 20
+(RB) Keith Ford runs left for a 1 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 10:00] STL 4th & 1  @ STL 21
+(QB) Jordan Ta'amu runs up the middle for a 3 gain.
+(DE) Cashaud Lyons with the tackle.
+
+[Q4 | 09:29] STL 1st & 10  @ STL 24
+(RB) Lenard Tillery runs left for a 5 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q4 | 09:12] STL 2nd & 5  @ STL 29
+(RB) Matt Jones runs left for a 7 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 08:49] STL 1st & 10  @ STL 36
+(RB) Cristine Michael runs middle for a 12 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 08:25] STL 1st & 10  @ STL 48
+(RB) Cristine Michael is brought down for a 0 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 08:06] STL 2nd & 10  @ STL 48
+(RB) Cristine Michael runs middle for a 22 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 07:44] STL 1st & 10  @ HOU 30
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 07:19] STL 2nd & 10  @ HOU 30
+(RB) Cristine Michael carries the ball for a 14 gain but gets stripped!
+Ball recovery by (DE) Cashaud Lyons on the HOU 16.
+
+
+[Q4 | 06:56] STL 1st & 10  @ HOU 16
+(RB) Keith Ford runs right for a 2 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 06:34] STL 2nd & 8  @ HOU 14
+(RB) Matt Jones runs right for a 3 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 06:15] STL 3rd & 5  @ HOU 11
+(RB) Keith Ford runs right for a 1 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 05:48] STL 4th & 4  @ HOU 10
+(K) Taylor Russolino will now attempt a 22 yard field goal.
+Field Goal!
+ -= Roughnecks - 15 ; Battlehawks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 5:36
+Plays: 14 Run ; 0 Pass
+Yards: 78
+===============================
+
+[Q4 | 05:40]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+(RB) James Butler catches the ball from the 17.
+(RB) James Butler is tackled after a short 5 yard gain.
+Roughnecks to start their drive on the HOU 22.
+
+
+[Q4 | 05:26] HOU 1st & 10  @ HOU 22
+(RB) Andrew Williams runs right for a 13 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q4 | 04:52] HOU 1st & 10  @ HOU 35
+(RB) James Butler runs right for a 3 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q4 | 04:14] HOU 2nd & 7  @ HOU 38
+(RB) James Butler is brought down for a 6 yard loss.
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 03:32] HOU 3rd & 13  @ HOU 32
+(RB) James Butler runs left for a 1 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q4 | 02:59] HOU 4th & 12  @ HOU 33
+(P) Ajene Rehkow punts the ball 46 yards.
+Battlehawks will start their drive on the STL 21.
+
+ -= Battlehawks - 12 ; Roughnecks - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 2:52
+Plays: 4 Run ; 0 Pass
+Yards: 11
+===============================
+
+
+[Q4 | 02:34] STL 1st & 10  @ STL 21
+(RB) Lenard Tillery runs right for a 25 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 02:17] STL 1st & 10  @ STL 46
+(RB) Cristine Michael runs right for a 7 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 01:50] STL 2nd & 3  @ HOU 47
+(RB) Cristine Michael runs middle for a 1 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 01:27] STL 3rd & 2  @ HOU 46
+(RB) Keith Ford is brought down for a 2 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 00:59] STL 4th & 4  @ HOU 48
+(P) Marquette King punts the ball 34 yards.
+Roughnecks will start their drive on the HOU 14.
+
+ -= Roughnecks - 15 ; Battlehawks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:04
+Plays: 4 Run ; 0 Pass
+Yards: 31
+===============================
+
+
+[Q4 | 00:30] HOU 1st & 10  @ HOU 14
+(RB) James Butler runs middle for a 3 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q4 | 00:07] HOU 2nd & 7  @ HOU 17
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DL) Casey Sayles.
+
+End of Regulation.
+ -= Battlehawks - 12 ; Roughnecks - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 0:30
+Plays: 2 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+The St. Louis Battlehawks at The Houston Roughnecks Game Stats:
+======================= STL ======== HOU
+Score:                  12           15
+Time of Possession:     29:54        30:06
+Total Yards:            213          208
+Pass Yards:             0           0
+Run Yards:              213          208
+Turnovers:              0            0

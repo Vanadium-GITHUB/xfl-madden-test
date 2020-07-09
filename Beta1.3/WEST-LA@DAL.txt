@@ -1,0 +1,828 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Wildcats have elected (WR) Kermit Whitfield to recieve.
+
+(WR) Kermit Whitfield catches the ball from the 5.
+(WR) Kermit Whitfield is tackled after a 7 yard gain.
+Wildcats to start their drive on the LA 12.
+
+
+[Q1 | 14:49] LA 1st & 10  @ LA 12
+(RB) Martez Carter runs middle for a 14 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 14:22] LA 1st & 10  @ LA 26
+(RB) Elijah Hood runs right for a 5 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 13:55] LA 2nd & 5  @ LA 31
+(RB) Martez Carter is brought down for a 0 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q1 | 13:37] LA 3rd & 5  @ LA 31
+(RB) DuJuan Harris runs right for a 32 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q1 | 13:18] LA 1st & 10  @ DAL 37
+(RB) Martez Carter runs left for a 3 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q1 | 12:49] LA 2nd & 7  @ DAL 34
+(RB) Larry Rose runs right for a 2 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q1 | 12:30] LA 3rd & 5  @ DAL 32
+(RB) Elijah Hood runs right for a 10 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 12:05] LA 1st & 10  @ DAL 22
+(RB) DuJuan Harris runs left for a 18 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q1 | 11:37] LA 1st & Goal  @ DAL 4
+(RB) Martez Carter runs right for a 2 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q1 | 11:19] LA 2nd & Goal  @ DAL 2
+(RB) Elijah Hood runs middle for a 2 yard gain!
+Touchdown, Wildcats!
+
+ -= Renegades - 0 ; Wildcats - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 3:58
+Plays: 10 Run ; 0 Pass
+Yards: 88
+===============================
+
+[Q1 | 10:51]  | Kick-off!
+
+The Wildcats' (K) Nick Novak will kick the ball.
+Renegades have elected (RB) Marquis Young to recieve.
+
+(RB) Marquis Young catches the ball from the 9.
+(RB) Marquis Young is immediately tackled. No gain.
+Renegades to start their drive on the DAL 9.
+
+
+[Q1 | 10:41] DAL 1st & 10  @ DAL 9
+(RB) Lance Dunbar is brought down for a 0 yard loss.
+The tackle made by (DT) Trevon Sanders.
+
+[Q1 | 10:19] DAL 2nd & 10  @ DAL 9
+(RB) Cameron Artis-Payne runs middle for a 8 yard gain!
+The tackle made by (DT) Trevon Sanders.
+
+[Q1 | 09:59] DAL 3rd & 2  @ DAL 17
+(RB) Marquis Young runs left for a 6 yard gain!
+The tackle made by (LB) Tre' Williams.
+
+[Q1 | 09:35] DAL 1st & 10  @ DAL 23
+(RB) Lance Dunbar runs left for a 1 yard gain!
+The tackle made by (LB) Tre' Williams.
+
+[Q1 | 09:08] DAL 2nd & 9  @ DAL 24
+(RB) Cameron Artis-Payne runs middle for a 7 yard gain!
+The tackle made by (LB) Tre' Williams.
+
+[Q1 | 08:48] DAL 3rd & 2  @ DAL 31
+(RB) Lance Dunbar runs left for a 35 yard gain!
+The tackle made by (DT) Trevon Sanders.
+
+[Q1 | 08:24] DAL 1st & 10  @ LA 34
+(RB) Cameron Artis-Payne runs right for a 16 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q1 | 08:03] DAL 1st & 10  @ LA 18
+(RB) Cameron Artis-Payne runs middle for a 5 yard gain!
+The tackle made by (DE) Latarius Brady.
+
+[Q1 | 07:43] DAL 2nd & 5  @ LA 13
+(RB) Marquis Young runs left for a 6 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q1 | 07:22] DAL 1st & Goal  @ LA 7
+(RB) Cameron Artis-Payne runs left for a 6 yard gain!
+The tackle made by (DT) Trevon Sanders.
+
+[Q1 | 07:00] DAL 2nd & Goal  @ LA 1
+(RB) Marquis Young carries the ball for a 0 gain but gets stripped!
+Ball recovery by (DT) Roderick Henderson on the LA 1.
+
+ -= Wildcats - 6 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 4:02
+Plays: 11 Run ; 0 Pass
+Yards: 90
+===============================
+
+
+[Q1 | 06:39] LA 1st & 10  @ LA 1
+(RB) Larry Rose runs middle for a 31 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q1 | 06:10] LA 1st & 10  @ LA 32
+(RB) Elijah Hood runs left for a 7 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q1 | 05:29] LA 2nd & 3  @ LA 39
+(RB) DuJuan Harris runs left for a 10 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 05:01] LA 1st & 10  @ LA 49
+(RB) Larry Rose is brought down for a 2 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 04:26] LA 2nd & 12  @ LA 47
+(RB) Martez Carter runs right for a 3 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q1 | 03:52] LA 3rd & 9  @  the '50
+(RB) Martez Carter runs middle for a 1 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q1 | 03:13] LA 4th & 8  @ DAL 49
+(P) Shane Tripuika punts the ball 38 yards.
+Renegades will start their drive on the DAL 11.
+
+ -= Renegades - 0 ; Wildcats - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 3:42
+Plays: 6 Run ; 0 Pass
+Yards: 50
+===============================
+
+
+[Q1 | 02:57] DAL 1st & 10  @ DAL 11
+(RB) Marquis Young runs middle for a 4 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q1 | 02:31] DAL 2nd & 6  @ DAL 15
+(RB) Cameron Artis-Payne runs right for a 2 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q1 | 02:05] DAL 3rd & 4  @ DAL 17
+(RB) Marquis Young runs right for a 4 yard gain!
+The tackle made by (DT) Trevon Sanders.
+
+[Q1 | 01:35] DAL 1st & 10  @ DAL 21
+(RB) Marquis Young runs middle for a 4 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q1 | 01:08] DAL 2nd & 6  @ DAL 25
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (DT) Trevon Sanders.
+
+[Q1 | 00:47] DAL 3rd & 6  @ DAL 25
+(RB) Cameron Artis-Payne runs left for a 2 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q1 | 00:18] DAL 4th & 4  @ DAL 27
+(P) Drew Galitz punts the ball a good 56 yards!
+Wildcats will start their drive on the LA 17.
+
+ -= Wildcats - 6 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 3:04
+Plays: 6 Run ; 0 Pass
+Yards: 16
+===============================
+
+
+[Q2 | 14:53] LA 1st & 10  @ LA 17
+(RB) DuJuan Harris runs middle for a 16 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 14:20] LA 1st & 10  @ LA 33
+(RB) Martez Carter runs right for a 2 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 13:51] LA 2nd & 8  @ LA 35
+(RB) Martez Carter runs right for a 4 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q2 | 13:16] LA 3rd & 4  @ LA 39
+(RB) DuJuan Harris runs middle for a 3 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 12:43] LA 4th & 1  @ LA 42
+(QB) Josh Johnson runs up the middle for a 1 loss.
+The stop made by (DE) Frank Alexander.
+
+Turnover on downs.
+
+ -= Renegades - 0 ; Wildcats - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 2:38
+Plays: 5 Run ; 0 Pass
+Yards: 24
+===============================
+
+
+[Q2 | 12:15] DAL 1st & 10  @ LA 41
+(RB) Cameron Artis-Payne runs middle for a 2 yard gain!
+The tackle made by (DT) Roderick Henderson.
+
+[Q2 | 11:46] DAL 2nd & 8  @ LA 39
+(RB) Cameron Artis-Payne runs left for a 3 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q2 | 11:29] DAL 3rd & 5  @ LA 36
+(RB) Lance Dunbar runs middle for a 1 yard gain!
+The tackle made by (DT) Roderick Henderson.
+
+[Q2 | 11:12] DAL 4th & 4  @ LA 35
+(K) Austin MacGinnis will now attempt a 44 yard field goal.
+Miss!
+ -= Wildcats - 6 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:13
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q2 | 11:02] LA 1st & 10  @ LA 35
+(RB) Martez Carter runs middle for a 11 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 10:36] LA 1st & 10  @ LA 46
+(RB) Martez Carter runs right for a 1 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 10:01] LA 2nd & 9  @ LA 47
+(RB) DuJuan Harris is brought down for a 2 yard loss.
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 09:26] LA 3rd & 11  @ LA 45
+(RB) Elijah Hood is brought down for a 0 yard loss.
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 08:57] LA 4th & 11  @ LA 45
+(P) Shane Tripuika punts the ball a good 51 yards!
+Renegades will start their drive on the DAL 4.
+
+ -= Renegades - 0 ; Wildcats - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 2:28
+Plays: 4 Run ; 0 Pass
+Yards: 10
+===============================
+
+
+[Q2 | 08:34] DAL 1st & 10  @ DAL 4
+(RB) Cameron Artis-Payne runs middle for a 3 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q2 | 08:09] DAL 2nd & 7  @ DAL 7
+(RB) Lance Dunbar runs middle for a 3 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q2 | 07:45] DAL 3rd & 4  @ DAL 10
+(RB) Cameron Artis-Payne runs middle for a 15 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q2 | 07:21] DAL 1st & 10  @ DAL 25
+(RB) Cameron Artis-Payne runs right for a 25 yard gain!
+The tackle made by (LB) Tre' Williams.
+
+[Q2 | 06:57] DAL 1st & 10  @  the '50
+(RB) Lance Dunbar carries the ball for a 3 gain but gets stripped!
+Ball recovery by (DT) Trevon Sanders on the LA 47.
+
+ -= Wildcats - 6 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:54
+Plays: 5 Run ; 0 Pass
+Yards: 49
+===============================
+
+
+[Q2 | 06:40] LA 1st & 10  @ LA 47
+(RB) DuJuan Harris is brought down for a 4 yard loss.
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 06:08] LA 2nd & 14  @ LA 43
+(RB) DuJuan Harris runs right for a 1 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 05:29] LA 3rd & 13  @ LA 44
+(RB) DuJuan Harris is brought down for a 0 yard loss.
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 04:58] LA 4th & 13  @ LA 44
+(P) Shane Tripuika punts the ball a good 52 yards!
+Renegades will start their drive on the DAL 4.
+
+ -= Renegades - 0 ; Wildcats - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:59
+Plays: 3 Run ; 0 Pass
+Yards: -3
+===============================
+
+
+[Q2 | 04:41] DAL 1st & 10  @ DAL 4
+(RB) Cameron Artis-Payne runs left for a 2 yard gain!
+The tackle made by (DT) Roderick Henderson.
+
+[Q2 | 04:14] DAL 2nd & 8  @ DAL 6
+(RB) Cameron Artis-Payne runs left for a 2 yard gain!
+The tackle made by (DT) Trevon Sanders.
+
+[Q2 | 03:51] DAL 3rd & 6  @ DAL 8
+(RB) Marquis Young runs left for a 4 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q2 | 03:23] DAL 4th & 2  @ DAL 12
+(QB) Landry Jones gets stuck at the line. No gain.
+(DE) Boogie Roberts with the tackle.
+
+Turnover on downs.
+
+ -= Wildcats - 6 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:47
+Plays: 4 Run ; 0 Pass
+Yards: 8
+===============================
+
+
+[Q2 | 02:54] LA 1st & 10  @ DAL 12
+(RB) DuJuan Harris runs middle for a 3 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 02:15] LA 2nd & 7  @ DAL 9
+(RB) Martez Carter is brought down for a 0 yard loss.
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 01:39] LA 3rd & 7  @ DAL 9
+(RB) Larry Rose runs middle for a 3 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 01:11] LA 4th & 4  @ DAL 6
+(K) Nick Novak will now attempt a 17 yard field goal.
+Field Goal!
+ -= Renegades - 0 ; Wildcats - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:55
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+[Q2 | 00:59]  | Kick-off!
+
+The Wildcats' (K) Nick Novak will kick the ball.
+Renegades have elected (RB) Marquis Young to recieve.
+
+(RB) Marquis Young catches the ball from the 13.
+(RB) Marquis Young is tackled after a short 5 yard gain.
+Renegades to start their drive on the DAL 18.
+
+
+[Q2 | 00:46] DAL 1st & 10  @ DAL 18
+(RB) Lance Dunbar runs middle for a 20 yard gain!
+The tackle made by (DT) Roderick Henderson.
+
+[Q2 | 00:16] DAL 1st & 10  @ DAL 38
+(RB) Cameron Artis-Payne runs left for a 1 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+End of first half.
+ -= Wildcats - 9 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 0:46
+Plays: 2 Run ; 0 Pass
+Yards: 21
+===============================
+
+[Q3 | 15:00]  | Kick-off!
+
+The Wildcats' (K) Nick Novak will kick the ball.
+Renegades have elected (WR) Austin Wait to recieve.
+
+(WR) Austin Wait catches the ball from the 11.
+(WR) Austin Wait is knocked out of the field after a 24 yard return!
+Renegades to start their drive on the DAL 35.
+
+
+[Q3 | 14:42] DAL 1st & 10  @ DAL 35
+(RB) Lance Dunbar carries the ball for a 2 gain but gets stripped!
+Ball recovery by (DE) Boogie Roberts on the DAL 37.
+
+ -= Wildcats - 9 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 0:28
+Plays: 1 Run ; 0 Pass
+Yards: 2
+===============================
+
+
+[Q3 | 14:14] LA 1st & 10  @ DAL 37
+(RB) Larry Rose runs left for a 4 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q3 | 13:30] LA 2nd & 6  @ DAL 33
+(RB) DuJuan Harris runs left for a 4 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 12:57] LA 3rd & 2  @ DAL 29
+(RB) Larry Rose runs middle for a 2 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q3 | 12:32] LA 1st & 10  @ DAL 27
+(RB) DuJuan Harris is brought down for a 8 yard loss.
+The tackle made by (DT) Tomasi Laulile.
+
+[Q3 | 12:00] LA 2nd & 18  @ DAL 35
+(RB) Martez Carter runs middle for a 4 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 11:24] LA 3rd & 14  @ DAL 31
+(RB) Elijah Hood runs middle for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 11:00] LA 4th & 12  @ DAL 29
+(K) Nick Novak will now attempt a 38 yard field goal.
+Field Goal!
+ -= Renegades - 0 ; Wildcats - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 3:26
+Plays: 6 Run ; 0 Pass
+Yards: 8
+===============================
+
+[Q3 | 10:48]  | Kick-off!
+
+The Wildcats' (K) Nick Novak will kick the ball.
+Renegades have elected (WR) Austin Wait to recieve.
+
+(WR) Austin Wait catches the ball from the 14.
+(WR) Austin Wait is tackled after a 10 yard gain.
+Renegades to start their drive on the DAL 24.
+
+
+[Q3 | 10:33] DAL 1st & 10  @ DAL 24
+(RB) Lance Dunbar runs middle for a 2 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q3 | 10:10] DAL 2nd & 8  @ DAL 26
+(RB) Cameron Artis-Payne runs left for a 2 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q3 | 09:52] DAL 3rd & 6  @ DAL 28
+(RB) Marquis Young runs right for a 9 yard gain!
+The tackle made by (DE) Latarius Brady.
+
+[Q3 | 09:28] DAL 1st & 10  @ DAL 37
+(RB) Cameron Artis-Payne runs right for a 4 yard gain!
+The tackle made by (DE) Boogie Roberts.
+
+[Q3 | 09:06] DAL 2nd & 6  @ DAL 41
+(RB) Lance Dunbar runs middle for a 3 yard gain!
+The tackle made by (LB) Tre' Williams.
+
+[Q3 | 08:40] DAL 3rd & 3  @ DAL 44
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (DT) Roderick Henderson.
+
+[Q3 | 08:11] DAL 4th & 3  @ DAL 44
+(P) Drew Galitz punts the ball 38 yards.
+Wildcats will start their drive on the LA 18.
+
+ -= Wildcats - 12 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:47
+Plays: 6 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q3 | 07:46] LA 1st & 10  @ LA 18
+(RB) Larry Rose is brought down for a 7 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q3 | 07:05] LA 2nd & 17  @ LA 11
+(RB) Martez Carter runs middle for a 3 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q3 | 06:30] LA 3rd & 14  @ LA 14
+(RB) Martez Carter is brought down for a 0 yard loss.
+The tackle made by (LB) Greer Martini.
+
+[Q3 | 05:49] LA 4th & 14  @ LA 14
+(P) Shane Tripuika punts the ball a good 49 yards!
+Renegades will start their drive on the DAL 37.
+
+ -= Renegades - 0 ; Wildcats - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:23
+Plays: 3 Run ; 0 Pass
+Yards: -4
+===============================
+
+
+[Q3 | 05:23] DAL 1st & 10  @ DAL 37
+(RB) Lance Dunbar runs left for a 3 yard gain!
+The tackle made by (DE) Latarius Brady.
+
+[Q3 | 05:05] DAL 2nd & 7  @ DAL 40
+(RB) Marquis Young runs left for a 15 yard gain!
+The tackle made by (DT) Roderick Henderson.
+
+[Q3 | 04:47] DAL 1st & 10  @ LA 45
+(RB) Cameron Artis-Payne runs middle for a 1 yard gain!
+The tackle made by (DT) Roderick Henderson.
+
+[Q3 | 04:22] DAL 2nd & 9  @ LA 44
+(RB) Marquis Young is brought down for a 2 yard loss.
+The tackle made by (DT) Roderick Henderson.
+
+[Q3 | 03:57] DAL 3rd & 11  @ LA 46
+(RB) Cameron Artis-Payne runs middle for a 3 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q3 | 03:34] DAL 4th & 8  @ LA 43
+(P) Drew Galitz punts the ball 41 yards.
+Wildcats will start their drive on the LA 2.
+
+ -= Wildcats - 12 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:10
+Plays: 5 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q3 | 03:13] LA 1st & 10  @ LA 2
+(RB) Martez Carter runs left for a 1 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q3 | 02:39] LA 2nd & 9  @ LA 3
+(RB) Larry Rose runs middle for a 4 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q3 | 02:03] LA 3rd & 5  @ LA 7
+(RB) Martez Carter runs right for a 24 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 01:31] LA 1st & 10  @ LA 31
+(RB) Elijah Hood runs right for a 3 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q3 | 00:52] LA 2nd & 7  @ LA 34
+(RB) Martez Carter runs right for a 24 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q3 | 00:19] LA 1st & 10  @ DAL 42
+(RB) DuJuan Harris runs middle for a 3 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 14:46] LA 2nd & 7  @ DAL 39
+(RB) DuJuan Harris is brought down for a 5 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 14:07] LA 3rd & 12  @ DAL 44
+(RB) Larry Rose runs middle for a 4 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q4 | 13:30] LA 4th & 8  @ DAL 40
+(P) Shane Tripuika punts the ball 27 yards.
+Renegades will start their drive on the DAL 13.
+
+ -= Renegades - 0 ; Wildcats - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 5:04
+Plays: 8 Run ; 0 Pass
+Yards: 58
+===============================
+
+
+[Q4 | 13:09] DAL 1st & 10  @ DAL 13
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (DE) Latarius Brady.
+
+[Q4 | 12:43] DAL 2nd & 10  @ DAL 13
+(RB) Lance Dunbar runs left for a 9 yard gain!
+The tackle made by (LB) Tre' Williams.
+
+[Q4 | 12:13] DAL 3rd & 1  @ DAL 22
+(RB) Cameron Artis-Payne runs right for a 1 yard gain!
+The tackle made by (LB) Tre' Williams.
+
+[Q4 | 11:45] DAL 1st & 10  @ DAL 23
+(RB) Lance Dunbar carries the ball for a 4 gain but gets stripped!
+Ball recovery by (DE) Boogie Roberts on the DAL 27.
+
+ -= Wildcats - 12 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:41
+Plays: 4 Run ; 0 Pass
+Yards: 14
+===============================
+
+
+[Q4 | 11:28] LA 1st & 10  @ DAL 27
+(RB) Elijah Hood runs middle for a 3 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 10:49] LA 2nd & 7  @ DAL 24
+(RB) Elijah Hood runs middle for a 1 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 10:21] LA 3rd & 6  @ DAL 23
+(RB) DuJuan Harris carries the ball for a 3 gain but gets stripped!
+Ball recovery by (DE) Winston Craig on the DAL 20.
+
+ -= Renegades - 0 ; Wildcats - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 1:45
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q4 | 09:43] DAL 1st & 10  @ DAL 20
+(RB) Lance Dunbar is brought down for a 3 yard loss.
+The tackle made by (DT) Roderick Henderson.
+
+[Q4 | 09:25] DAL 2nd & 13  @ DAL 17
+(RB) Marquis Young runs left for a 1 yard gain!
+The tackle made by (DE) Latarius Brady.
+
+[Q4 | 09:08] DAL 3rd & 12  @ DAL 18
+(RB) Lance Dunbar is brought down for a 8 yard loss.
+The tackle made by (DT) Trevon Sanders.
+
+[Q4 | 08:51] DAL 4th & 20  @ DAL 10
+(P) Drew Galitz punts the ball 42 yards.
+Wildcats will start their drive on the LA 48.
+
+ -= Wildcats - 12 ; Renegades - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:15
+Plays: 3 Run ; 0 Pass
+Yards: -10
+===============================
+
+
+[Q4 | 08:28] LA 1st & 10  @ LA 48
+(RB) Elijah Hood runs right for a 2 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 07:54] LA 2nd & 8  @  the '50
+(RB) Elijah Hood is brought down for a 0 yard loss.
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 07:21] LA 3rd & 8  @  the '50
+(RB) DuJuan Harris runs middle for a 9 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 06:39] LA 1st & 10  @ DAL 41
+(RB) DuJuan Harris is brought down for a 7 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 06:00] LA 2nd & 17  @ DAL 48
+(RB) Martez Carter runs middle for a 11 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 05:25] LA 3rd & 6  @ DAL 37
+(RB) Martez Carter runs middle for a 4 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 04:49] LA 4th & 2  @ DAL 33
+(QB) Josh Johnson runs up the middle for a 2 gain.
+(LB) Gerald Rivers with the tackle.
+
+[Q4 | 04:21] LA 1st & 10  @ DAL 31
+(RB) Larry Rose runs left for a 22 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 03:53] LA 1st & Goal  @ DAL 9
+(RB) Larry Rose runs left for a 1 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 03:21] LA 2nd & Goal  @ DAL 8
+(RB) Martez Carter is brought down for a 0 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 02:51] LA 3rd & Goal  @ DAL 8
+(RB) Martez Carter runs left for a 4 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 02:14] LA 4th & Goal  @ DAL 4
+(K) Nick Novak will now attempt a 15 yard field goal.
+Field Goal!
+ -= Renegades - 0 ; Wildcats - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 6:22
+Plays: 11 Run ; 0 Pass
+Yards: 48
+===============================
+
+[Q4 | 02:06]  | Kick-off!
+
+The Wildcats' (K) Nick Novak will kick the ball.
+Renegades have elected (WR) Fynn Nage to recieve.
+
+(WR) Fynn Nage catches the ball from the 17.
+(WR) Fynn Nage returns the ball for an amazing 64 yards!
+(LB) Shawn Oakman with the saving tackle.
+Renegades to start their drive on the LA 19.
+
+
+[Q4 | 01:34] DAL 1st & 10  @ LA 19
+(RB) Lance Dunbar is brought down for a 7 yard loss.
+The tackle made by (DE) Boogie Roberts.
+
+[Q4 | 01:11] DAL 2nd & 17  @ LA 26
+(RB) Marquis Young runs left for a 10 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q4 | 00:44] DAL 3rd & 7  @ LA 16
+(RB) Marquis Young runs right for a 3 yard gain!
+The tackle made by (LB) Will Smith.
+
+[Q4 | 00:18] DAL 4th & 4  @ LA 13
+(K) Austin MacGinnis will now attempt a 24 yard field goal.
+Field Goal!
+ -= Wildcats - 15 ; Renegades - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 1:26
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+[Q4 | 00:08]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Wildcats have elected (WR) Kermit Whitfield to recieve.
+
+(WR) Kermit Whitfield catches the ball from the 5.
+(WR) Kermit Whitfield is brought down after an amazing 19 yard return!
+Wildcats to start their drive on the LA 24.
+
+ -= Renegades - 3 ; Wildcats - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 6:22
+Plays: 11 Run ; 0 Pass
+Yards: 48
+===============================
+
+
+The Los Angeles Wildcats at The Dallas Renegades Game Stats:
+======================= LA  ======== DAL
+Score:                  15           3
+Time of Possession:     36:06        24:01
+Total Yards:            238          232
+Pass Yards:             0           0
+Run Yards:              238          232
+Turnovers:              2            8

@@ -1,0 +1,853 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Guardians have elected (WR) Austin Duke to recieve.
+
+(WR) Austin Duke catches the ball from the 21.
+(WR) Austin Duke is tackled after a short 5 yard gain.
+Guardians to start their drive on the NY 26.
+
+
+[Q1 | 14:45] NY 1st & 10  @ NY 26
+(RB) Matthew Colburn runs left for a 1 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q1 | 14:23] NY 2nd & 9  @ NY 27
+(RB) Darius Victor runs right for a 2 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q1 | 14:01] NY 3rd & 7  @ NY 29
+(RB) Matthew Colburn runs left for a 4 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 13:31] NY 4th & 3  @ NY 33
+(P) Justin Vogel punts the ball 46 yards.
+Renegades will start their drive on the DAL 21.
+
+ -= Renegades - 0 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:37
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q1 | 13:08] DAL 1st & 10  @ DAL 21
+(RB) Marquis Young runs middle for a 2 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 12:43] DAL 2nd & 8  @ DAL 23
+(RB) Lance Dunbar runs middle for a 1 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 12:25] DAL 3rd & 7  @ DAL 24
+(RB) Cameron Artis-Payne runs right for a 6 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 11:58] DAL 4th & 1  @ DAL 30
+(QB) Landry Jones runs up the middle for a 1 gain.
+(CB) Dravon Askew-Henrey with the tackle.
+
+[Q1 | 11:24] DAL 1st & 10  @ DAL 31
+(RB) Cameron Artis-Payne runs middle for a 9 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 11:04] DAL 2nd & 1  @ DAL 40
+(RB) Marquis Young runs left for a 4 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q1 | 10:35] DAL 1st & 10  @ DAL 44
+(RB) Marquis Young is brought down for a 6 yard loss.
+The tackle made by (DE) Benmi Rotimi.
+
+[Q1 | 10:06] DAL 2nd & 16  @ DAL 38
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 09:49] DAL 3rd & 16  @ DAL 38
+(RB) Lance Dunbar runs left for a 43 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 09:29] DAL 1st & 10  @ NY 19
+(RB) Cameron Artis-Payne runs left for a 7 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q1 | 09:01] DAL 2nd & 3  @ NY 12
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 08:38] DAL 3rd & 3  @ NY 12
+(RB) Lance Dunbar is brought down for a 8 yard loss.
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 08:18] DAL 4th & 11  @ NY 20
+(K) Austin MacGinnis will now attempt a 29 yard field goal.
+Field Goal!
+ -= Guardians - 0 ; Renegades - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 5:03
+Plays: 12 Run ; 0 Pass
+Yards: 59
+===============================
+
+[Q1 | 08:05]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Guardians have elected (RB) Justin Stockton to recieve.
+
+(RB) Justin Stockton catches the ball from the 18.
+(RB) Justin Stockton is tackled for a 1 yard loss.
+Guardians to start their drive on the NY 17.
+
+
+[Q1 | 07:52] NY 1st & 10  @ NY 17
+(RB) Darius Victor runs left for a 13 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q1 | 07:25] NY 1st & 10  @ NY 30
+(RB) Matthew Colburn runs left for a 12 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q1 | 06:56] NY 1st & 10  @ NY 42
+(RB) Tim Cook runs left for a 5 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q1 | 06:32] NY 2nd & 5  @ NY 47
+(RB) Justin Stockton runs middle for a 2 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q1 | 06:07] NY 3rd & 3  @ NY 49
+(RB) Darius Victor runs left for a 4 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q1 | 05:42] NY 1st & 10  @ DAL 47
+(RB) Tim Cook runs right for a 14 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q1 | 05:12] NY 1st & 10  @ DAL 33
+(RB) Tim Cook runs right for a 3 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q1 | 04:48] NY 2nd & 7  @ DAL 30
+(RB) Justin Stockton is brought down for a 4 yard loss.
+The tackle made by (LB) Greer Martini.
+
+[Q1 | 04:22] NY 3rd & 11  @ DAL 34
+(RB) Justin Stockton runs middle for a 4 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q1 | 03:57] NY 4th & 7  @ DAL 30
+(K) Matthew McCrane will now attempt a 40 yard field goal.
+Miss!
+Renegades to start on the 
+DAL 30
+ -= Renegades - 3 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 4:06
+Plays: 9 Run ; 0 Pass
+Yards: 53
+===============================
+
+
+[Q1 | 03:46] DAL 1st & 10  @ DAL 30
+(RB) Cameron Artis-Payne runs middle for a 14 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 03:08] DAL 1st & 10  @ DAL 44
+(RB) Marquis Young runs middle for a 3 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q1 | 02:32] DAL 2nd & 7  @ DAL 47
+(RB) Cameron Artis-Payne runs right for a 6 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q1 | 01:53] DAL 3rd & 1  @ NY 47
+(RB) Cameron Artis-Payne runs left for a 13 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q1 | 01:22] DAL 1st & 10  @ NY 34
+(RB) Lance Dunbar runs middle for a 22 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q1 | 00:45] DAL 1st & 10  @ NY 12
+(RB) Lance Dunbar runs left for a 3 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q1 | 00:14] DAL 2nd & 7  @ NY 9
+(RB) Cameron Artis-Payne runs right for a 4 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q2 | 14:35] DAL 3rd & 3  @ NY 5
+(RB) Cameron Artis-Payne runs left for a 2 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q2 | 14:04] DAL 4th & 1  @ NY 3
+(QB) Landry Jones runs up the middle for a 2 gain.
+(DT) Joey Mbu with the tackle.
+
+[Q2 | 13:38] DAL 1st & Goal  @ NY 1
+(RB) Cameron Artis-Payne is brought down for a 1 yard loss.
+The tackle made by (DE) Benmi Rotimi.
+
+[Q2 | 13:06] DAL 2nd & Goal  @ NY 2
+(RB) Lance Dunbar runs left for a 2 yard gain!
+Touchdown, Renegades!
+
+ -= Guardians - 0 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 6:11
+Plays: 11 Run ; 0 Pass
+Yards: 70
+===============================
+
+[Q2 | 12:35]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Guardians have elected (RB) Justin Stockton to recieve.
+
+Ball hits the turf and rolls to a halt at the 1.
+Guardians will start their drive on the NY 1.
+
+
+[Q2 | 12:27] NY 1st & 10  @ NY 1
+(RB) Tim Cook runs left for a 6 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 12:07] NY 2nd & 4  @ NY 7
+(RB) Matthew Colburn runs left for a 3 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 11:49] NY 3rd & 1  @ NY 10
+(RB) Matthew Colburn carries the ball for a 7 gain but gets stripped!
+Ball recovery by (DT) Tony Gueard on the NY 17.
+
+
+[Q2 | 11:25] NY 1st & 10  @ NY 17
+(RB) Darius Victor runs middle for a 7 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 11:08] NY 2nd & 3  @ NY 24
+(RB) Tim Cook runs right for a 2 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 10:41] NY 3rd & 1  @ NY 26
+(RB) Tim Cook is brought down for a 6 yard loss.
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 10:23] NY 4th & 7  @ NY 20
+(P) Justin Vogel punts the ball a good 58 yards!
+Renegades will start their drive on the DAL 22.
+
+ -= Renegades - 9 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:17
+Plays: 6 Run ; 0 Pass
+Yards: 19
+===============================
+
+
+[Q2 | 10:10] DAL 1st & 10  @ DAL 22
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (LB) D'Juan Hines.
+
+[Q2 | 09:38] DAL 2nd & 10  @ DAL 22
+(RB) Marquis Young runs middle for a 3 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q2 | 09:04] DAL 3rd & 7  @ DAL 25
+(RB) Marquis Young runs middle for a 3 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q2 | 08:30] DAL 4th & 4  @ DAL 28
+(P) Drew Galitz punts the ball a good 57 yards!
+Guardians will start their drive on the NY 15.
+
+ -= Guardians - 0 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 2:07
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q2 | 08:03] NY 1st & 10  @ NY 15
+(RB) Tim Cook runs left for a 6 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 07:43] NY 2nd & 4  @ NY 21
+(RB) Justin Stockton runs right for a 3 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q2 | 07:18] NY 3rd & 1  @ NY 24
+(RB) Matthew Colburn runs left for a 1 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q2 | 06:54] NY 1st & 10  @ NY 25
+(RB) Tim Cook runs middle for a 13 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q2 | 06:26] NY 1st & 10  @ NY 38
+(RB) Justin Stockton is brought down for a 2 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 06:04] NY 2nd & 12  @ NY 36
+(RB) Matthew Colburn runs left for a 6 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 05:40] NY 3rd & 6  @ NY 42
+(RB) Tim Cook runs middle for a 14 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q2 | 05:15] NY 1st & 10  @ DAL 44
+(RB) Darius Victor runs middle for a 4 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 04:52] NY 2nd & 6  @ DAL 40
+(RB) Darius Victor is brought down for a 1 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 04:23] NY 3rd & 7  @ DAL 41
+(RB) Tim Cook runs left for a 1 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 04:04] NY 4th & 6  @ DAL 40
+(P) Justin Vogel punts the ball 32 yards.
+Renegades will start their drive on the DAL 8.
+
+ -= Renegades - 9 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 4:26
+Plays: 10 Run ; 0 Pass
+Yards: 45
+===============================
+
+
+[Q2 | 03:37] DAL 1st & 10  @ DAL 8
+(RB) Cameron Artis-Payne is brought down for a 2 yard loss.
+The tackle made by (LB) D'Juan Hines.
+
+[Q2 | 02:56] DAL 2nd & 12  @ DAL 6
+(RB) Cameron Artis-Payne is brought down for a 3 yard loss.
+The tackle made by (DT) TJ Barnes.
+
+[Q2 | 02:29] DAL 3rd & 15  @ DAL 3
+(RB) Cameron Artis-Payne runs middle for a 1 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q2 | 01:53] DAL 4th & 14  @ DAL 4
+(P) Drew Galitz punts the ball a good 51 yards!
+Guardians will start their drive on the NY 45.
+
+ -= Guardians - 0 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:59
+Plays: 3 Run ; 0 Pass
+Yards: -4
+===============================
+
+
+[Q2 | 01:38] NY 1st & 10  @ NY 45
+(RB) Darius Victor is brought down for a 0 yard loss.
+The tackle made by (LB) Greer Martini.
+
+[Q2 | 01:12] NY 2nd & 10  @ NY 45
+(RB) Justin Stockton runs right for a 9 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 00:48] NY 3rd & 1  @ DAL 46
+(RB) Justin Stockton runs right for a 2 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q2 | 00:29] NY 1st & 10  @ DAL 44
+(RB) Justin Stockton is brought down for a 4 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q2 | 00:12] NY 2nd & 14  @ DAL 48
+(RB) Tim Cook runs middle for a 1 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+End of first half.
+ -= Renegades - 9 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:38
+Plays: 5 Run ; 0 Pass
+Yards: 8
+===============================
+
+[Q3 | 15:00]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Renegades have elected (RB) Marquis Young to recieve.
+
+(RB) Marquis Young catches the ball from the 24.
+(RB) Marquis Young is brought down after a 16 yard return.
+Renegades to start their drive on the DAL 40.
+
+
+[Q3 | 14:40] DAL 1st & 10  @ DAL 40
+(RB) Cameron Artis-Payne runs right for a 3 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q3 | 14:10] DAL 2nd & 7  @ DAL 43
+(RB) Cameron Artis-Payne is brought down for a 0 yard loss.
+The tackle made by (DE) Benmi Rotimi.
+
+[Q3 | 13:39] DAL 3rd & 7  @ DAL 43
+(RB) Marquis Young is brought down for a 0 yard loss.
+The tackle made by (LB) Ben Heeney.
+
+[Q3 | 13:07] DAL 4th & 7  @ DAL 43
+(P) Drew Galitz punts the ball 37 yards.
+Guardians will start their drive on the NY 20.
+
+ -= Guardians - 0 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:59
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q3 | 12:41] NY 1st & 10  @ NY 20
+(RB) Darius Victor is brought down for a 8 yard loss.
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 12:21] NY 2nd & 18  @ NY 12
+(RB) Tim Cook runs right for a 4 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q3 | 11:51] NY 3rd & 14  @ NY 16
+(RB) Justin Stockton runs middle for a 2 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q3 | 11:28] NY 4th & 12  @ NY 18
+(P) Justin Vogel punts the ball a good 53 yards!
+Renegades will start their drive on the DAL 29.
+
+ -= Renegades - 9 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:38
+Plays: 3 Run ; 0 Pass
+Yards: -2
+===============================
+
+
+[Q3 | 11:03] DAL 1st & 10  @ DAL 29
+(RB) Lance Dunbar runs middle for a 2 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q3 | 10:38] DAL 2nd & 8  @ DAL 31
+(RB) Cameron Artis-Payne runs right for a 15 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q3 | 10:02] DAL 1st & 10  @ DAL 46
+(RB) Marquis Young is brought down for a 5 yard loss.
+The tackle made by (DT) Joey Mbu.
+
+[Q3 | 09:31] DAL 2nd & 15  @ DAL 41
+(RB) Cameron Artis-Payne is brought down for a 5 yard loss.
+The tackle made by (DE) Cavon Walker.
+
+[Q3 | 08:52] DAL 3rd & 20  @ DAL 36
+(RB) Cameron Artis-Payne is brought down for a 2 yard loss.
+The tackle made by (LB) D'Juan Hines.
+
+[Q3 | 08:23] DAL 4th & 22  @ DAL 34
+(P) Drew Galitz punts the ball a good 57 yards!
+Guardians will start their drive on the NY 9.
+
+ -= Guardians - 0 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 2:55
+Plays: 5 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q3 | 08:08] NY 1st & 10  @ NY 9
+(RB) Tim Cook is brought down for a 0 yard loss.
+The tackle made by (LB) Greer Martini.
+
+[Q3 | 07:50] NY 2nd & 10  @ NY 9
+(RB) Darius Victor runs middle for a 41 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q3 | 07:24] NY 1st & 10  @  the '50
+(RB) Tim Cook runs middle for a 3 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q3 | 06:59] NY 2nd & 7  @ DAL 47
+(RB) Darius Victor runs right for a 14 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q3 | 06:38] NY 1st & 10  @ DAL 33
+(RB) Darius Victor runs middle for a 5 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 06:09] NY 2nd & 5  @ DAL 28
+(RB) Darius Victor runs middle for a 13 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q3 | 05:44] NY 1st & 10  @ DAL 15
+(RB) Justin Stockton is brought down for a 2 yard loss.
+The tackle made by (LB) Greer Martini.
+
+[Q3 | 05:26] NY 2nd & 12  @ DAL 17
+(RB) Matthew Colburn runs left for a 2 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q3 | 04:57] NY 3rd & 10  @ DAL 15
+(RB) Matthew Colburn is brought down for a 3 yard loss.
+The tackle made by (DT) Tomasi Laulile.
+
+[Q3 | 04:27] NY 4th & 13  @ DAL 18
+(K) Matthew McCrane will now attempt a 28 yard field goal.
+Field Goal!
+ -= Renegades - 9 ; Guardians - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 3:52
+Plays: 9 Run ; 0 Pass
+Yards: 73
+===============================
+
+[Q3 | 04:16]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Renegades have elected (WR) Fynn Nage to recieve.
+
+(WR) Fynn Nage catches the ball from the 5.
+(WR) Fynn Nage is tackled after a 9 yard gain.
+Renegades to start their drive on the DAL 14.
+
+
+[Q3 | 04:04] DAL 1st & 10  @ DAL 14
+(RB) Cameron Artis-Payne runs right for a 1 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q3 | 03:38] DAL 2nd & 9  @ DAL 15
+(RB) Cameron Artis-Payne runs left for a 4 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q3 | 03:07] DAL 3rd & 5  @ DAL 19
+(RB) Lance Dunbar is brought down for a 1 yard loss.
+The tackle made by (DT) Joey Mbu.
+
+[Q3 | 02:29] DAL 4th & 6  @ DAL 18
+(P) Drew Galitz punts the ball 38 yards.
+Guardians will start their drive on the NY 44.
+
+ -= Guardians - 3 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:49
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q3 | 02:15] NY 1st & 10  @ NY 44
+(RB) Justin Stockton runs left for a 4 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 01:51] NY 2nd & 6  @ NY 48
+(RB) Matthew Colburn runs right for a 10 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q3 | 01:34] NY 1st & 10  @ DAL 42
+(RB) Darius Victor is brought down for a 0 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q3 | 01:10] NY 2nd & 10  @ DAL 42
+(RB) Tim Cook runs left for a 42 yard gain!
+Touchdown, Guardians!
+
+ -= Renegades - 9 ; Guardians - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:31
+Plays: 4 Run ; 0 Pass
+Yards: 56
+===============================
+
+[Q3 | 00:44]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Renegades have elected (WR) Austin Wait to recieve.
+
+Ball hits the turf at the 7 yard line
+and bounces into the endzone. Minor touchback.
+Renegades to start their drive on the DAL 15.
+
+
+[Q3 | 00:32] DAL 1st & 10  @ DAL 15
+(RB) Cameron Artis-Payne runs middle for a 4 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q3 | 00:03] DAL 2nd & 6  @ DAL 19
+(RB) Lance Dunbar is brought down for a 0 yard loss.
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 14:37] DAL 3rd & 6  @ DAL 19
+(RB) Lance Dunbar runs middle for a 3 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q4 | 14:08] DAL 4th & 3  @ DAL 22
+(P) Drew Galitz punts the ball a good 54 yards!
+Guardians will start their drive on the NY 24.
+
+ -= Guardians - 9 ; Renegades - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:38
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q4 | 13:54] NY 1st & 10  @ NY 24
+(RB) Matthew Colburn runs middle for a 13 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 13:37] NY 1st & 10  @ NY 37
+(RB) Tim Cook runs middle for a 3 yard gain!
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 13:18] NY 2nd & 7  @ NY 40
+(RB) Matthew Colburn runs left for a 2 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q4 | 13:00] NY 3rd & 5  @ NY 42
+(RB) Justin Stockton runs left for a 2 yard gain!
+The tackle made by (DT) Tony Gueard.
+
+[Q4 | 12:33] NY 4th & 3  @ NY 44
+(P) Justin Vogel punts the ball 47 yards.
+Renegades will start their drive on the DAL 9.
+
+ -= Renegades - 9 ; Guardians - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:33
+Plays: 4 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q4 | 12:21] DAL 1st & 10  @ DAL 9
+(RB) Lance Dunbar is brought down for a 0 yard loss.
+The tackle made by (DE) Cavon Walker.
+
+[Q4 | 12:01] DAL 2nd & 10  @ DAL 9
+(RB) Cameron Artis-Payne runs right for a 12 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 11:42] DAL 1st & 10  @ DAL 21
+(RB) Cameron Artis-Payne runs right for a 3 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 11:19] DAL 2nd & 7  @ DAL 24
+(RB) Cameron Artis-Payne runs right for a 14 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 10:51] DAL 1st & 10  @ DAL 38
+(RB) Lance Dunbar runs middle for a 7 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q4 | 10:28] DAL 2nd & 3  @ DAL 45
+(RB) Marquis Young runs right for a 1 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 10:05] DAL 3rd & 2  @ DAL 46
+(RB) Cameron Artis-Payne runs middle for a 13 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q4 | 09:41] DAL 1st & 10  @ NY 41
+(RB) Cameron Artis-Payne runs left for a 41 yard gain!
+Touchdown, Renegades!
+
+ -= Guardians - 9 ; Renegades - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 3:03
+Plays: 8 Run ; 0 Pass
+Yards: 91
+===============================
+
+[Q4 | 09:18]  | Kick-off!
+
+The Renegades' (K) Austin MacGinnis will kick the ball.
+Guardians have elected (WR) Austin Duke to recieve.
+
+Ball hits the turf and rolls to a halt at the 19.
+Guardians will start their drive on the NY 19.
+
+
+[Q4 | 09:05] NY 1st & 10  @ NY 19
+(RB) Darius Victor is brought down for a 0 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 08:45] NY 2nd & 10  @ NY 19
+(RB) Matthew Colburn runs middle for a 7 yard gain!
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 08:15] NY 3rd & 3  @ NY 26
+(RB) Darius Victor is brought down for a 3 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 07:48] NY 4th & 6  @ NY 23
+(P) Justin Vogel punts the ball 42 yards.
+Renegades will start their drive on the DAL 35.
+
+ -= Renegades - 15 ; Guardians - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 1:43
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q4 | 07:22] DAL 1st & 10  @ DAL 35
+(RB) Lance Dunbar runs right for a 1 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q4 | 06:54] DAL 2nd & 9  @ DAL 36
+(RB) Lance Dunbar runs right for a 1 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q4 | 06:24] DAL 3rd & 8  @ DAL 37
+(RB) Lance Dunbar is brought down for a 6 yard loss.
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 05:50] DAL 4th & 14  @ DAL 31
+(P) Drew Galitz punts the ball a good 48 yards!
+Guardians will start their drive on the NY 21.
+
+ -= Guardians - 9 ; Renegades - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 1:49
+Plays: 3 Run ; 0 Pass
+Yards: -4
+===============================
+
+
+[Q4 | 05:33] NY 1st & 10  @ NY 21
+(RB) Justin Stockton is brought down for a 0 yard loss.
+The tackle made by (DE) Frank Alexander.
+
+[Q4 | 05:14] NY 2nd & 10  @ NY 21
+(RB) Darius Victor runs middle for a 16 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 04:50] NY 1st & 10  @ NY 37
+(RB) Darius Victor is brought down for a 5 yard loss.
+The tackle made by (LB) Ansantay Brown.
+
+[Q4 | 04:33] NY 2nd & 15  @ NY 32
+(RB) Justin Stockton carries the ball for a 9 gain but gets stripped!
+Ball recovery by (LB) Greer Martini on the NY 41.
+
+
+[Q4 | 04:09] NY 3rd & 6  @ NY 41
+(RB) Darius Victor runs right for a 12 yard gain!
+The tackle made by (LB) Greer Martini.
+
+[Q4 | 03:39] NY 1st & 10  @ DAL 47
+(RB) Darius Victor runs left for a 1 yard gain!
+The tackle made by (DE) Winston Craig.
+
+[Q4 | 03:22] NY 2nd & 9  @ DAL 46
+(RB) Justin Stockton is brought down for a 0 yard loss.
+The tackle made by (DT) Tony Gueard.
+
+[Q4 | 03:04] NY 3rd & 9  @ DAL 46
+(RB) Justin Stockton runs middle for a 4 yard gain!
+The tackle made by (DT) Tomasi Laulile.
+
+[Q4 | 02:35] NY 4th & 5  @ DAL 42
+(P) Justin Vogel punts the ball 41 yards.
+Renegades will start their drive on the DAL 1.
+
+ -= Renegades - 15 ; Guardians - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 3:18
+Plays: 8 Run ; 0 Pass
+Yards: 37
+===============================
+
+
+[Q4 | 02:15] DAL 1st & 10  @ DAL 1
+(RB) Cameron Artis-Payne runs right for a 1 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 01:40] DAL 2nd & 9  @ DAL 2
+(RB) Marquis Young runs right for a 62 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 01:10] DAL 1st & 10  @ NY 36
+(RB) Marquis Young runs left for a 17 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 00:39] DAL 1st & 10  @ NY 19
+(RB) Marquis Young runs middle for a 1 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q4 | 00:13] DAL 2nd & 9  @ NY 18
+(RB) Lance Dunbar is brought down for a 0 yard loss.
+The tackle made by (DT) Joey Mbu.
+
+End of Regulation.
+ -= Guardians - 9 ; Renegades - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 2:15
+Plays: 5 Run ; 0 Pass
+Yards: 81
+===============================
+
+
+The New York Guardians at The Dallas Renegades Game Stats:
+======================= NY  ======== DAL
+Score:                  9            15
+Time of Possession:     28:28        31:32
+Total Yards:            259          147
+Pass Yards:             0           0
+Run Yards:              259          147
+Turnovers:              0            0

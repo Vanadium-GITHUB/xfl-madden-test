@@ -1,0 +1,935 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Roughnecks have elected (WR) Sam Mobley to recieve.
+
+(WR) Sam Mobley catches the ball from the 2.
+(WR) Sam Mobley is tackled after a short 3 yard gain.
+Roughnecks to start their drive on the HOU 5.
+
+
+[Q1 | 14:51] HOU 1st & 10  @ HOU 5
+(RB) James Butler runs middle for a 25 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q1 | 14:23] HOU 1st & 10  @ HOU 30
+(RB) James Butler is brought down for a 7 yard loss.
+The tackle made by (DE) Benmi Rotimi.
+
+[Q1 | 14:02] HOU 2nd & 17  @ HOU 23
+(RB) Andrew Williams runs middle for a 2 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 13:34] HOU 3rd & 15  @ HOU 25
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 13:12] HOU 4th & 15  @ HOU 25
+(P) Ajene Rehkow punts the ball 41 yards.
+Guardians will start their drive on the NY 34.
+
+ -= Guardians - 0 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:03
+Plays: 4 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q1 | 12:48] NY 1st & 10  @ NY 34
+(RB) Matthew Colburn is brought down for a 0 yard loss.
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 12:31] NY 2nd & 10  @ NY 34
+(RB) Matthew Colburn runs middle for a 1 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 12:05] NY 3rd & 9  @ NY 35
+(RB) Matthew Colburn is brought down for a 8 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 11:35] NY 4th & 17  @ NY 27
+(P) Justin Vogel punts the ball a good 51 yards!
+Roughnecks will start their drive on the HOU 22.
+
+ -= Roughnecks - 0 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:32
+Plays: 3 Run ; 0 Pass
+Yards: -7
+===============================
+
+
+[Q1 | 11:16] HOU 1st & 10  @ HOU 22
+(RB) Andrew Williams runs left for a 9 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 10:48] HOU 2nd & 1  @ HOU 31
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 10:25] HOU 1st & 10  @ HOU 32
+(RB) Andrew Williams runs middle for a 2 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q1 | 10:01] HOU 2nd & 8  @ HOU 34
+(RB) James Butler runs left for a 22 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q1 | 09:39] HOU 1st & 10  @ NY 44
+(RB) Andrew Williams is brought down for a 8 yard loss.
+The tackle made by (DT) Joey Mbu.
+
+[Q1 | 09:13] HOU 2nd & 18  @ HOU 48
+(RB) James Butler runs right for a 4 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 08:44] HOU 3rd & 14  @ NY 48
+(RB) James Butler runs left for a 3 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q1 | 08:27] HOU 4th & 11  @ NY 45
+(P) Ajene Rehkow punts the ball 31 yards.
+Guardians will start their drive on the NY 14.
+
+ -= Guardians - 0 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 3:08
+Plays: 7 Run ; 0 Pass
+Yards: 33
+===============================
+
+
+[Q1 | 08:08] NY 1st & 10  @ NY 14
+(RB) Matthew Colburn runs right for a 4 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 07:44] NY 2nd & 6  @ NY 18
+(RB) Matthew Colburn runs middle for a 1 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 07:17] NY 3rd & 5  @ NY 19
+(RB) Tim Cook is brought down for a 2 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 06:53] NY 4th & 7  @ NY 17
+(P) Justin Vogel punts the ball 46 yards.
+Roughnecks will start their drive on the HOU 37.
+
+ -= Roughnecks - 0 ; Guardians - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:27
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q1 | 06:41] HOU 1st & 10  @ HOU 37
+(RB) James Butler carries the ball for a 5 gain but gets stripped!
+Ball recovery by (DE) Cavon Walker on the HOU 42.
+
+ -= Guardians - 0 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 0:25
+Plays: 1 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q1 | 06:16] NY 1st & 10  @ HOU 42
+(RB) Justin Stockton runs middle for a 1 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 05:55] NY 2nd & 9  @ HOU 41
+(RB) Tim Cook runs middle for a 3 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 05:25] NY 3rd & 6  @ HOU 38
+(RB) Darius Victor runs middle for a 38 yard gain!
+Touchdown, Guardians!
+
+ -= Roughnecks - 0 ; Guardians - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:20
+Plays: 3 Run ; 0 Pass
+Yards: 42
+===============================
+
+[Q1 | 04:56]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Roughnecks have elected (WR) Sam Mobley to recieve.
+
+(WR) Sam Mobley catches the ball from the 2.
+(WR) Sam Mobley is tackled after a 7 yard gain.
+Roughnecks to start their drive on the HOU 9.
+
+
+[Q1 | 04:46] HOU 1st & 10  @ HOU 9
+(RB) James Butler runs middle for a 3 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 04:25] HOU 2nd & 7  @ HOU 12
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (DT) TJ Barnes.
+
+[Q1 | 04:01] HOU 3rd & 7  @ HOU 12
+(RB) James Butler runs right for a 4 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q1 | 03:35] HOU 4th & 3  @ HOU 16
+(P) Ajene Rehkow punts the ball a good 51 yards!
+Guardians will start their drive on the NY 33.
+
+ -= Guardians - 6 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:23
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q1 | 03:23] NY 1st & 10  @ NY 33
+(RB) Tim Cook runs right for a 1 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 02:43] NY 2nd & 9  @ NY 34
+(RB) Matthew Colburn runs right for a 58 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 02:09] NY 1st & Goal  @ HOU 8
+(RB) Darius Victor is brought down for a 7 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 01:32] NY 2nd & Goal  @ HOU 15
+(RB) Darius Victor runs left for a 4 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q1 | 01:00] NY 3rd & Goal  @ HOU 11
+(RB) Matthew Colburn is brought down for a 4 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q1 | 00:21] NY 4th & Goal  @ HOU 15
+(K) Matthew McCrane will now attempt a 27 yard field goal.
+Field Goal!
+ -= Roughnecks - 0 ; Guardians - 9 =- 
+
+===============================
+Drive Summary: 
+Time: 3:13
+Plays: 5 Run ; 0 Pass
+Yards: 52
+===============================
+
+[Q1 | 00:10]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Roughnecks have elected (WR) Sam Mobley to recieve.
+
+(WR) Sam Mobley catches the ball from the 13.
+(WR) Sam Mobley is immediately tackled. No gain.
+Roughnecks to start their drive on the HOU 13.
+
+
+[Q1 | 14:59] HOU 1st & 10  @ HOU 13
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q2 | 14:39] HOU 2nd & 9  @ HOU 14
+(RB) Andrew Williams runs right for a 4 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q2 | 14:14] HOU 3rd & 5  @ HOU 18
+(RB) Andrew Williams runs right for a 2 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q2 | 13:54] HOU 4th & 3  @ HOU 20
+(P) Ajene Rehkow punts the ball 47 yards.
+Guardians will start their drive on the NY 33.
+
+ -= Guardians - 9 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:17
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q2 | 13:42] NY 1st & 10  @ NY 33
+(RB) Darius Victor runs right for a 5 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 13:14] NY 2nd & 5  @ NY 38
+(RB) Darius Victor runs middle for a 3 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 12:43] NY 3rd & 2  @ NY 41
+(RB) Justin Stockton runs middle for a 23 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 12:12] NY 1st & 10  @ HOU 36
+(RB) Darius Victor runs right for a 3 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 11:36] NY 2nd & 7  @ HOU 33
+(RB) Tim Cook runs left for a 2 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 11:00] NY 3rd & 5  @ HOU 31
+(RB) Tim Cook runs right for a 1 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 10:34] NY 4th & 4  @ HOU 30
+(K) Matthew McCrane will now attempt a 40 yard field goal.
+Field Goal!
+ -= Roughnecks - 0 ; Guardians - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 3:18
+Plays: 6 Run ; 0 Pass
+Yards: 37
+===============================
+
+[Q2 | 10:24]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Roughnecks have elected (CB) Ajene Harris to recieve.
+
+(CB) Ajene Harris catches the ball from the 22.
+(CB) Ajene Harris is tackled after a 6 yard gain.
+Roughnecks to start their drive on the HOU 28.
+
+
+[Q2 | 10:08] HOU 1st & 10  @ HOU 28
+(RB) James Butler runs middle for a 2 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q2 | 09:44] HOU 2nd & 8  @ HOU 30
+(RB) James Butler carries the ball for a 2 gain but gets stripped!
+Ball recovery by (DE) Cavon Walker on the HOU 32.
+
+ -= Guardians - 12 ; Roughnecks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 0:43
+Plays: 2 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q2 | 09:25] NY 1st & 10  @ HOU 32
+(RB) Tim Cook is brought down for a 0 yard loss.
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 08:45] NY 2nd & 10  @ HOU 32
+(RB) Matthew Colburn runs middle for a 2 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 08:13] NY 3rd & 8  @ HOU 30
+(RB) Darius Victor is brought down for a 2 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 07:36] NY 4th & 10  @ HOU 32
+(K) Matthew McCrane will now attempt a 42 yard field goal.
+Field Goal!
+ -= Roughnecks - 0 ; Guardians - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 2:01
+Plays: 3 Run ; 0 Pass
+Yards: 0
+===============================
+
+[Q2 | 07:24]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Roughnecks have elected (CB) Ajene Harris to recieve.
+
+(CB) Ajene Harris catches the ball from the 16.
+(CB) Ajene Harris returns the ball for an amazing 53 yards!
+(S) Andrew Summers with the saving tackle.
+Roughnecks to start their drive on the NY 31.
+
+
+[Q2 | 06:56] HOU 1st & 10  @ NY 31
+(RB) Andrew Williams runs middle for a 1 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q2 | 06:33] HOU 2nd & 9  @ NY 30
+(RB) James Butler runs right for a 18 yard gain!
+The tackle made by (DE) Cavon Walker.
+
+[Q2 | 06:10] HOU 1st & 10  @ NY 12
+(RB) James Butler runs left for a 12 yard gain!
+Touchdown, Roughnecks!
+
+ -= Guardians - 15 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:13
+Plays: 3 Run ; 0 Pass
+Yards: 31
+===============================
+
+[Q2 | 05:43]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Guardians have elected (WR) Austin Duke to recieve.
+
+A fair catch is whistled.
+Guardians to start their drive on the NY 8.
+
+
+[Q2 | 05:33] NY 1st & 10  @ NY 8
+(RB) Justin Stockton is brought down for a 3 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 05:10] NY 2nd & 13  @ NY 5
+(RB) Justin Stockton runs middle for a 10 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 04:36] NY 3rd & 3  @ NY 15
+(RB) Justin Stockton runs middle for a 1 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 04:00] NY 4th & 2  @ NY 16
+(QB) Luis Perez runs up the middle for a 3 gain.
+(DE) Cashaud Lyons with the tackle.
+
+[Q2 | 03:30] NY 1st & 10  @ NY 19
+(RB) Justin Stockton gets caught in the back field. Fumbles the ball.
+Ball recovery by (DT) Corey Crawford on the NY 13.
+
+ -= Roughnecks - 6 ; Guardians - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 2:39
+Plays: 5 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q2 | 02:54] HOU 1st & 10  @ NY 13
+(RB) Andrew Williams runs middle for a 3 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q2 | 02:28] HOU 2nd & 7  @ NY 10
+(RB) Andrew Williams runs left for a 1 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q2 | 02:01] HOU 3rd & 6  @ NY 9
+(RB) James Butler runs middle for a 9 yard gain!
+Touchdown, Roughnecks!
+
+ -= Guardians - 15 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 1:21
+Plays: 3 Run ; 0 Pass
+Yards: 13
+===============================
+
+[Q2 | 01:33]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Guardians have elected (WR) Austin Duke to recieve.
+
+(WR) Austin Duke catches the ball from the 3.
+(WR) Austin Duke is immediately tackled. No gain.
+Guardians to start their drive on the NY 3.
+
+
+[Q2 | 01:25] NY 1st & 10  @ NY 3
+(RB) Tim Cook runs right for a 3 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 00:58] NY 2nd & 7  @ NY 6
+(RB) Matthew Colburn runs middle for a 2 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 00:21] NY 3rd & 5  @ NY 8
+(RB) Justin Stockton runs left for a 4 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+End of first half.
+ -= Roughnecks - 12 ; Guardians - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 1:25
+Plays: 3 Run ; 0 Pass
+Yards: 9
+===============================
+
+[Q3 | 15:00]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Guardians have elected (WR) Austin Duke to recieve.
+
+A fair catch is whistled.
+Guardians to start their drive on the NY 18.
+
+
+[Q3 | 14:47] NY 1st & 10  @ NY 18
+(RB) Justin Stockton is brought down for a 0 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 14:14] NY 2nd & 10  @ NY 18
+(RB) Justin Stockton runs left for a 15 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 13:40] NY 1st & 10  @ NY 33
+(RB) Tim Cook is brought down for a 0 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 13:12] NY 2nd & 10  @ NY 33
+(RB) Justin Stockton runs left for a 7 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 12:28] NY 3rd & 3  @ NY 40
+(RB) Darius Victor runs middle for a 7 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 11:51] NY 1st & 10  @ NY 47
+(RB) Darius Victor runs right for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q3 | 11:12] NY 2nd & 8  @ NY 49
+(RB) Justin Stockton runs right for a 2 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 10:44] NY 3rd & 6  @ HOU 49
+(RB) Matthew Colburn runs middle for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q3 | 10:05] NY 4th & 4  @ HOU 47
+(P) Justin Vogel punts the ball 37 yards.
+Roughnecks will start their drive on the HOU 10.
+
+ -= Roughnecks - 12 ; Guardians - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 4:56
+Plays: 8 Run ; 0 Pass
+Yards: 35
+===============================
+
+
+[Q3 | 09:51] HOU 1st & 10  @ HOU 10
+(RB) Andrew Williams runs middle for a 2 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q3 | 09:22] HOU 2nd & 8  @ HOU 12
+(RB) Andrew Williams runs middle for a 9 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q3 | 09:04] HOU 1st & 10  @ HOU 21
+(RB) James Butler runs left for a 2 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q3 | 08:47] HOU 2nd & 8  @ HOU 23
+(RB) Andrew Williams is brought down for a 2 yard loss.
+The tackle made by (DE) Cavon Walker.
+
+[Q3 | 08:21] HOU 3rd & 10  @ HOU 21
+(RB) Andrew Williams is brought down for a 8 yard loss.
+The tackle made by (DE) Cavon Walker.
+
+[Q3 | 07:57] HOU 4th & 18  @ HOU 13
+(P) Ajene Rehkow punts the ball a good 55 yards!
+Guardians will start their drive on the NY 32.
+
+ -= Guardians - 15 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:06
+Plays: 5 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q3 | 07:45] NY 1st & 10  @ NY 32
+(RB) Darius Victor runs right for a 14 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 07:09] NY 1st & 10  @ NY 46
+(RB) Darius Victor is brought down for a 1 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q3 | 06:43] NY 2nd & 11  @ NY 45
+(RB) Justin Stockton runs right for a 5 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 06:07] NY 3rd & 6  @  the '50
+(RB) Justin Stockton runs right for a 19 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 05:32] NY 1st & 10  @ HOU 31
+(RB) Darius Victor runs middle for a 1 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 04:56] NY 2nd & 9  @ HOU 30
+(RB) Justin Stockton runs left for a 9 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 04:25] NY 1st & 10  @ HOU 21
+(RB) Tim Cook is brought down for a 8 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 03:56] NY 2nd & 18  @ HOU 29
+(RB) Tim Cook runs middle for a 11 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 03:15] NY 3rd & 7  @ HOU 18
+(RB) Justin Stockton runs right for a 11 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 02:40] NY 1st & Goal  @ HOU 7
+(RB) Darius Victor is brought down for a 3 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q3 | 02:06] NY 2nd & Goal  @ HOU 10
+(RB) Matthew Colburn runs right for a 1 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 01:40] NY 3rd & Goal  @ HOU 9
+(RB) Justin Stockton runs middle for a 4 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 01:10] NY 4th & Goal  @ HOU 5
+(K) Matthew McCrane will now attempt a 17 yard field goal.
+Field Goal!
+ -= Roughnecks - 12 ; Guardians - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 6:46
+Plays: 12 Run ; 0 Pass
+Yards: 63
+===============================
+
+[Q3 | 00:59]  | Kick-off!
+
+The Guardians' (K) Matthew McCrane will kick the ball.
+Roughnecks have elected (WR) Sam Mobley to recieve.
+
+(WR) Sam Mobley catches the ball from the 15.
+(WR) Sam Mobley is brought down after a 15 yard return.
+Roughnecks to start their drive on the HOU 30.
+
+
+[Q3 | 00:42] HOU 1st & 10  @ HOU 30
+(RB) James Butler runs right for a 16 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q3 | 00:23] HOU 1st & 10  @ HOU 46
+(RB) James Butler runs middle for a 8 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 14:55] HOU 2nd & 2  @ NY 46
+(RB) Andrew Williams runs middle for a 6 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 14:28] HOU 1st & 10  @ NY 40
+(RB) Andrew Williams runs right for a 1 yard gain!
+The tackle made by (DT) Joey Mbu.
+
+[Q4 | 14:06] HOU 2nd & 9  @ NY 39
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DE) Cavon Walker.
+
+[Q4 | 13:47] HOU 3rd & 9  @ NY 39
+(RB) James Butler runs right for a 2 yard gain!
+The tackle made by (DE) Benmi Rotimi.
+
+[Q4 | 13:23] HOU 4th & 7  @ NY 37
+(K) Sergio Castitllo will now attempt a 48 yard field goal.
+Miss!
+ -= Guardians - 18 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:28
+Plays: 6 Run ; 0 Pass
+Yards: 33
+===============================
+
+
+[Q4 | 13:14] NY 1st & 10  @ NY 37
+(RB) Tim Cook carries the ball for a 6 gain but gets stripped!
+Ball recovery by (LB) Marquis Gates on the NY 43.
+
+ -= Roughnecks - 12 ; Guardians - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 0:32
+Plays: 1 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q4 | 12:42] HOU 1st & 10  @ NY 43
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 12:13] HOU 2nd & 6  @ NY 39
+(RB) Andrew Williams runs middle for a 39 yard gain!
+Touchdown, Roughnecks!
+
+ -= Guardians - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 0:55
+Plays: 2 Run ; 0 Pass
+Yards: 43
+===============================
+
+[Q4 | 11:47]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Guardians have elected (RB) Justin Stockton to recieve.
+
+Ball sails into the endzone. Major touchback,
+Guardians to start their drive on the NY 35.
+
+
+[Q4 | 11:29] NY 1st & 10  @ NY 35
+(RB) Justin Stockton runs middle for a 1 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 11:10] NY 2nd & 9  @ NY 36
+(RB) Justin Stockton runs left for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 10:50] NY 3rd & 7  @ NY 38
+(RB) Darius Victor runs left for a 4 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 10:25] NY 4th & 3  @ NY 42
+(P) Justin Vogel punts the ball 43 yards.
+Roughnecks will start their drive on the HOU 15.
+
+ -= Roughnecks - 18 ; Guardians - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:29
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q4 | 10:00] HOU 1st & 10  @ HOU 15
+(RB) Andrew Williams runs right for a 4 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q4 | 09:33] HOU 2nd & 6  @ HOU 19
+(RB) Andrew Williams is brought down for a 2 yard loss.
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 09:15] HOU 3rd & 8  @ HOU 17
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 08:47] HOU 4th & 8  @ HOU 17
+(P) Ajene Rehkow punts the ball a good 57 yards!
+Guardians will start their drive on the NY 26.
+
+ -= Guardians - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:27
+Plays: 3 Run ; 0 Pass
+Yards: 2
+===============================
+
+
+[Q4 | 08:33] NY 1st & 10  @ NY 26
+(RB) Darius Victor runs left for a 8 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 08:12] NY 2nd & 2  @ NY 34
+(RB) Justin Stockton is brought down for a 0 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 07:53] NY 3rd & 2  @ NY 34
+(RB) Justin Stockton runs right for a 4 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 07:25] NY 1st & 10  @ NY 38
+(RB) Matthew Colburn runs middle for a 13 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 07:05] NY 1st & 10  @ HOU 49
+(RB) Darius Victor runs left for a 2 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 06:42] NY 2nd & 8  @ HOU 47
+(RB) Justin Stockton runs right for a 3 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 06:21] NY 3rd & 5  @ HOU 44
+(RB) Matthew Colburn is brought down for a 0 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q4 | 05:59] NY 4th & 5  @ HOU 44
+(P) Justin Vogel punts the ball 40 yards.
+Roughnecks will start their drive on the HOU 4.
+
+ -= Roughnecks - 18 ; Guardians - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 2:48
+Plays: 7 Run ; 0 Pass
+Yards: 30
+===============================
+
+
+[Q4 | 05:45] HOU 1st & 10  @ HOU 4
+(RB) James Butler runs right for a 14 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q4 | 05:18] HOU 1st & 10  @ HOU 18
+(RB) James Butler runs middle for a 1 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 04:58] HOU 2nd & 9  @ HOU 19
+(RB) James Butler runs middle for a 15 yard gain!
+The tackle made by (DT) TJ Barnes.
+
+[Q4 | 04:28] HOU 1st & 10  @ HOU 34
+(RB) Andrew Williams is brought down for a 7 yard loss.
+The tackle made by (DE) Benmi Rotimi.
+
+[Q4 | 04:06] HOU 2nd & 17  @ HOU 27
+(RB) Andrew Williams runs right for a 2 yard gain!
+The tackle made by (LB) Ben Heeney.
+
+[Q4 | 03:38] HOU 3rd & 15  @ HOU 29
+(RB) Andrew Williams carries the ball for a 14 gain but gets stripped!
+Ball recovery by (DE) Cavon Walker on the HOU 43.
+
+ -= Guardians - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 2:24
+Plays: 6 Run ; 0 Pass
+Yards: 39
+===============================
+
+
+[Q4 | 03:21] NY 1st & 10  @ HOU 43
+(RB) Matthew Colburn runs left for a 22 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 02:57] NY 1st & 10  @ HOU 21
+(RB) Darius Victor runs left for a 4 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 02:27] NY 2nd & 6  @ HOU 17
+(RB) Darius Victor runs middle for a 2 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 02:02] NY 3rd & 4  @ HOU 15
+(RB) Justin Stockton runs middle for a 2 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q4 | 01:34] NY 4th & 2  @ HOU 13
+(QB) Luis Perez runs up the middle for a 1 gain.
+(DE) Kony Ealy with the tackle.
+
+Turnover on downs.
+
+ -= Roughnecks - 18 ; Guardians - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 2:20
+Plays: 5 Run ; 0 Pass
+Yards: 31
+===============================
+
+
+[Q4 | 01:01] HOU 1st & 10  @ HOU 12
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 00:37] HOU 2nd & 9  @ HOU 13
+(RB) James Butler runs right for a 3 yard gain!
+The tackle made by (LB) D'Juan Hines.
+
+[Q4 | 00:13] HOU 3rd & 6  @ HOU 16
+(RB) James Butler carries the ball for a 8 gain but gets stripped!
+Ball recovery by (DT) Joey Mbu on the HOU 24.
+
+
+End of Regulation.
+ -= Guardians - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:01
+Plays: 3 Run ; 0 Pass
+Yards: 12
+===============================
+
+-=======- OVERTIME -=======-
+
+Round 1
+Roughnecks will now attempt.
+(WR) Nick Holley catches the ball in the endzone. Score.
+Guardians will now attempt.
+(WR) Joe Horn catches the ball in the endzone. Score.
+
+Round 2
+Guardians will now attempt.
+(TE) Jake Powell catches the ball in the endzone. Score.
+Roughnecks will now attempt.
+(RB) Andrew Williams is stuffed at the line.
+
+Round 3
+Roughnecks will now attempt.
+(RB) James Butler is tackled for a loss by (DE) Cavon Walker.
+Guardians will now attempt.
+(WR) Mekale McKay catches the ball in the endzone. Score.
+
+ -= Roughnecks - 19 ; Guardians - 21 =- 
+
+
+The Houston Roughnecks at The New York Guardians Game Stats:
+======================= HOU ======== NY
+Score:                  19           21
+Time of Possession:     23:25        36:35
+Total Yards:            252          313
+Pass Yards:             0           0
+Run Yards:              252          313
+Turnovers:              8            4

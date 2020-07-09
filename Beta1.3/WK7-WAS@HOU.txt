@@ -1,0 +1,978 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Defenders have elected (WR) Eli Rogers to recieve.
+
+(WR) Eli Rogers catches the ball from the 2.
+(WR) Eli Rogers is immediately tackled. No gain.
+Defenders to start their drive on the WAS 2.
+
+
+[Q1 | 14:52] WAS 1st & 10  @ WAS 2
+(RB) Nick Brossette runs middle for a 4 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q1 | 14:24] WAS 2nd & 6  @ WAS 6
+(RB) Nick Brossette runs right for a 2 yard gain!
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 14:00] WAS 3rd & 4  @ WAS 8
+(RB) Nick Brossette is brought down for a 3 yard loss.
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 13:41] WAS 4th & 7  @ WAS 5
+(P) Hunter Niswander punts the ball 44 yards.
+Roughnecks will start their drive on the WAS 49.
+
+ -= Roughnecks - 0 ; Defenders - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:24
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q1 | 13:28] HOU 1st & 10  @ WAS 49
+(RB) Andrew Williams is brought down for a 5 yard loss.
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q1 | 13:08] HOU 2nd & 15  @ HOU 46
+(RB) James Butler runs middle for a 5 yard gain!
+The tackle made by (DT) Elijah Qualls.
+
+[Q1 | 12:51] HOU 3rd & 10  @ WAS 49
+(RB) James Butler runs right for a 12 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q1 | 12:29] HOU 1st & 10  @ WAS 37
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q1 | 12:05] HOU 2nd & 10  @ WAS 37
+(RB) James Butler runs right for a 37 yard gain!
+Touchdown, Roughnecks!
+
+ -= Defenders - 0 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:47
+Plays: 5 Run ; 0 Pass
+Yards: 49
+===============================
+
+[Q1 | 11:41]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Defenders have elected (WR) Deion Holliman to recieve.
+
+(WR) Deion Holliman catches the ball from the 15.
+(WR) Deion Holliman is tackled after a 3 yard gain.
+Defenders to start their drive on the WAS 18.
+
+
+[Q1 | 11:28] WAS 1st & 10  @ WAS 18
+(RB) Donnel Pumphrey runs middle for a 12 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q1 | 11:05] WAS 1st & 10  @ WAS 30
+(RB) Nick Brossette is brought down for a 0 yard loss.
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 10:45] WAS 2nd & 10  @ WAS 30
+(RB) Jhurrel Pressley is brought down for a 8 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 10:15] WAS 3rd & 18  @ WAS 22
+(RB) Khalid Abdullah runs right for a 13 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 09:48] WAS 4th & 5  @ WAS 35
+(P) Hunter Niswander punts the ball 44 yards.
+Roughnecks will start their drive on the HOU 21.
+
+ -= Roughnecks - 6 ; Defenders - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:02
+Plays: 4 Run ; 0 Pass
+Yards: 17
+===============================
+
+
+[Q1 | 09:26] HOU 1st & 10  @ HOU 21
+Miss communication on the call. (QB) PJ Walker
+and (RB) James Butler slip on the handoff. Fumble.
+Ball recovery by (DT) Elijah Qualls on the HOU 19.
+
+ -= Defenders - 0 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 0:33
+Plays: 1 Run ; 0 Pass
+Yards: -2
+===============================
+
+
+[Q1 | 08:53] WAS 1st & 10  @ HOU 19
+(RB) Khalid Abdullah runs right for a 19 yard gain!
+Touchdown, Defenders!
+
+ -= Roughnecks - 6 ; Defenders - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 0:30
+Plays: 1 Run ; 0 Pass
+Yards: 19
+===============================
+
+[Q1 | 08:23]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Roughnecks have elected (WR) Sam Mobley to recieve.
+
+Ball hits the turf and rolls to a halt at the 20.
+Roughnecks will start their drive on the HOU 20.
+
+
+[Q1 | 08:09] HOU 1st & 10  @ HOU 20
+(RB) James Butler runs right for a 13 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q1 | 07:45] HOU 1st & 10  @ HOU 33
+(RB) Andrew Williams runs left for a 1 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q1 | 07:28] HOU 2nd & 9  @ HOU 34
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q1 | 07:10] HOU 3rd & 5  @ HOU 38
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DT) Keshun Freeman.
+
+[Q1 | 06:50] HOU 4th & 5  @ HOU 38
+(P) Ajene Rehkow punts the ball 38 yards.
+Defenders will start their drive on the WAS 24.
+
+ -= Defenders - 6 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:31
+Plays: 4 Run ; 0 Pass
+Yards: 18
+===============================
+
+
+[Q1 | 06:38] WAS 1st & 10  @ WAS 24
+(RB) Donnel Pumphrey runs left for a 3 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 06:14] WAS 2nd & 7  @ WAS 27
+(RB) Nick Brossette is brought down for a 0 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q1 | 05:45] WAS 3rd & 7  @ WAS 27
+(RB) Jhurrel Pressley is brought down for a 0 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q1 | 05:21] WAS 4th & 7  @ WAS 27
+(P) Hunter Niswander punts the ball a good 51 yards!
+Roughnecks will start their drive on the HOU 22.
+
+ -= Roughnecks - 6 ; Defenders - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:31
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q1 | 05:07] HOU 1st & 10  @ HOU 22
+(RB) James Butler gets caught in the back field. Fumbles the ball.
+Ball recovery by (DE) Tracey Sprinkle on the HOU 14.
+
+ -= Defenders - 6 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 0:27
+Plays: 1 Run ; 0 Pass
+Yards: -8
+===============================
+
+
+[Q1 | 04:40] WAS 1st & 10  @ HOU 14
+(RB) Nick Brossette is brought down for a 0 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q1 | 04:10] WAS 2nd & 10  @ HOU 14
+(RB) Nick Brossette is brought down for a 0 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q1 | 03:40] WAS 3rd & 10  @ HOU 14
+(RB) Donnel Pumphrey runs left for a 8 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q1 | 03:17] WAS 4th & 2  @ HOU 6
+(QB) Cardale Jones runs up the middle for a 2 gain.
+(LB) Marquis Gates with the tackle.
+
+[Q1 | 02:49] WAS 1st & Goal  @ HOU 4
+(RB) Khalid Abdullah is brought down for a 0 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q1 | 02:30] WAS 2nd & Goal  @ HOU 4
+(RB) Khalid Abdullah runs middle for a 4 yard gain!
+Touchdown, Defenders!
+
+ -= Roughnecks - 6 ; Defenders - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:27
+Plays: 6 Run ; 0 Pass
+Yards: 14
+===============================
+
+[Q1 | 02:13]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+(RB) James Butler catches the ball from the 1.
+(RB) James Butler is tackled after a short 2 yard gain.
+Roughnecks to start their drive on the HOU 3.
+
+
+[Q1 | 02:05] HOU 1st & 10  @ HOU 3
+(RB) Andrew Williams runs middle for a 4 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q1 | 01:44] HOU 2nd & 6  @ HOU 7
+(RB) Andrew Williams runs right for a 1 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q1 | 01:14] HOU 3rd & 5  @ HOU 8
+(RB) James Butler runs left for a 4 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q1 | 00:48] HOU 4th & 1  @ HOU 12
+(QB) PJ Walker runs up the middle for a 2 gain.
+(LB) Jonathan Massaquoi with the tackle.
+
+[Q1 | 00:20] HOU 1st & 10  @ HOU 14
+(RB) Andrew Williams runs right for a 2 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 14:56] HOU 2nd & 8  @ HOU 16
+(RB) Andrew Williams carries the ball for a 10 gain but gets stripped!
+Ball recovery by (DT) Anthony Johnson on the HOU 26.
+
+ -= Defenders - 12 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 2:34
+Plays: 6 Run ; 0 Pass
+Yards: 23
+===============================
+
+
+[Q2 | 14:31] WAS 1st & 10  @ HOU 26
+(RB) Khalid Abdullah runs right for a 3 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q2 | 14:04] WAS 2nd & 7  @ HOU 23
+(RB) Nick Brossette runs left for a 5 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 13:35] WAS 3rd & 2  @ HOU 18
+(RB) Donnel Pumphrey is brought down for a 4 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 13:03] WAS 4th & 6  @ HOU 22
+(K) Ty Rausa will now attempt a 31 yard field goal.
+Field Goal!
+ -= Roughnecks - 6 ; Defenders - 15 =- 
+
+===============================
+Drive Summary: 
+Time: 1:40
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+[Q2 | 12:51]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+A fair catch is whistled.
+Roughnecks to start their drive on the HOU 16.
+
+
+[Q2 | 12:39] HOU 1st & 10  @ HOU 16
+(RB) Andrew Williams runs left for a 2 yard gain!
+The tackle made by (DT) Elijah Qualls.
+
+[Q2 | 12:12] HOU 2nd & 8  @ HOU 18
+(RB) James Butler runs right for a 10 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q2 | 11:53] HOU 1st & 10  @ HOU 28
+(RB) Andrew Williams gets caught in the back field. Fumbles the ball.
+Ball recovery by (DT) Anthony Johnson on the HOU 25.
+
+ -= Defenders - 15 ; Roughnecks - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 1:05
+Plays: 3 Run ; 0 Pass
+Yards: 9
+===============================
+
+
+[Q2 | 11:34] WAS 1st & 10  @ HOU 25
+(RB) Donnel Pumphrey runs middle for a 2 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 10:54] WAS 2nd & 8  @ HOU 23
+(RB) Nick Brossette is brought down for a 0 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 10:24] WAS 3rd & 8  @ HOU 23
+(RB) Khalid Abdullah is brought down for a 0 yard loss.
+The tackle made by (DE) Kony Ealy.
+
+[Q2 | 09:51] WAS 4th & 8  @ HOU 23
+(K) Ty Rausa will now attempt a 32 yard field goal.
+Field Goal!
+ -= Roughnecks - 6 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:54
+Plays: 3 Run ; 0 Pass
+Yards: 2
+===============================
+
+[Q2 | 09:40]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Roughnecks have elected (WR) Sam Mobley to recieve.
+
+A fair catch is whistled.
+Roughnecks to start their drive on the HOU 10.
+
+
+[Q2 | 09:29] HOU 1st & 10  @ HOU 10
+(RB) Andrew Williams runs right for a 6 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 09:11] HOU 2nd & 4  @ HOU 16
+(RB) James Butler runs middle for a 1 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q2 | 08:52] HOU 3rd & 3  @ HOU 17
+(RB) James Butler runs right for a 12 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 08:35] HOU 1st & 10  @ HOU 29
+(RB) Andrew Williams runs right for a 10 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 08:17] HOU 1st & 10  @ HOU 39
+(RB) Andrew Williams runs right for a 11 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q2 | 07:47] HOU 1st & 10  @  the '50
+(RB) James Butler runs left for a 5 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q2 | 07:27] HOU 2nd & 5  @ WAS 45
+(RB) James Butler runs right for a 12 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q2 | 06:59] HOU 1st & 10  @ WAS 33
+(RB) Andrew Williams runs right for a 8 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 06:30] HOU 2nd & 2  @ WAS 25
+(RB) Andrew Williams runs middle for a 4 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 06:10] HOU 1st & 10  @ WAS 21
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q2 | 05:45] HOU 2nd & 6  @ WAS 17
+(RB) Andrew Williams runs middle for a 17 yard gain!
+Touchdown, Roughnecks!
+
+ -= Defenders - 18 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 4:05
+Plays: 11 Run ; 0 Pass
+Yards: 90
+===============================
+
+[Q2 | 05:24]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Defenders have elected (WR) Eli Rogers to recieve.
+
+(WR) Eli Rogers catches the ball from the 20.
+(WR) Eli Rogers is immediately tackled. No gain.
+Defenders to start their drive on the WAS 20.
+
+
+[Q2 | 05:10] WAS 1st & 10  @ WAS 20
+(RB) Jhurrel Pressley is brought down for a 0 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+[Q2 | 04:29] WAS 2nd & 10  @ WAS 20
+(RB) Donnel Pumphrey runs right for a 4 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q2 | 03:54] WAS 3rd & 6  @ WAS 24
+(RB) Nick Brossette is brought down for a 0 yard loss.
+The tackle made by (DT) Corey Crawford.
+
+[Q2 | 03:24] WAS 4th & 6  @ WAS 24
+(P) Hunter Niswander punts the ball 44 yards.
+Roughnecks will start their drive on the HOU 32.
+
+ -= Roughnecks - 12 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:58
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q2 | 03:12] HOU 1st & 10  @ HOU 32
+(RB) Andrew Williams runs right for a 7 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 02:54] HOU 2nd & 3  @ HOU 39
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q2 | 02:37] HOU 1st & 10  @ HOU 43
+(RB) Andrew Williams runs left for a 1 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q2 | 02:09] HOU 2nd & 9  @ HOU 44
+(RB) James Butler runs middle for a 2 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q2 | 01:41] HOU 3rd & 7  @ HOU 46
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q2 | 01:22] HOU 4th & 3  @  the '50
+(P) Ajene Rehkow punts the ball 33 yards.
+Defenders will start their drive on the WAS 17.
+
+ -= Defenders - 18 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:14
+Plays: 5 Run ; 0 Pass
+Yards: 18
+===============================
+
+
+[Q2 | 00:58] WAS 1st & 10  @ WAS 17
+(RB) Khalid Abdullah runs middle for a 3 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q2 | 00:18] WAS 2nd & 7  @ WAS 20
+(RB) Nick Brossette carries the ball for a 10 gain but gets stripped!
+Ball recovery by (LB) Marquis Gates on the WAS 30.
+
+
+End of first half.
+ -= Roughnecks - 12 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 0:58
+Plays: 2 Run ; 0 Pass
+Yards: 13
+===============================
+
+
+[Q3 | 15:00] HOU 1st & 10  @ WAS 30
+(RB) James Butler runs right for a 1 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q3 | 14:32] HOU 2nd & 9  @ WAS 29
+(RB) Andrew Williams runs left for a 5 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q3 | 14:08] HOU 3rd & 4  @ WAS 24
+(RB) Andrew Williams runs left for a 4 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q3 | 13:38] HOU 1st & 10  @ WAS 20
+(RB) James Butler runs middle for a 5 yard gain!
+The tackle made by (DT) Elijah Qualls.
+
+[Q3 | 13:12] HOU 2nd & 5  @ WAS 15
+(RB) Andrew Williams carries the ball for a 3 gain but gets stripped!
+Ball recovery by (LB) Jonathan Massaquoi on the WAS 12.
+
+ -= Defenders - 18 ; Roughnecks - 12 =- 
+
+===============================
+Drive Summary: 
+Time: 2:08
+Plays: 5 Run ; 0 Pass
+Yards: 18
+===============================
+
+
+[Q3 | 12:52] WAS 1st & 10  @ WAS 12
+(RB) Nick Brossette runs right for a 3 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 12:26] WAS 2nd & 7  @ WAS 15
+(RB) Jhurrel Pressley runs left for a 1 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 11:56] WAS 3rd & 6  @ WAS 16
+(RB) Jhurrel Pressley runs left for a 2 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q3 | 11:18] WAS 4th & 4  @ WAS 18
+(P) Hunter Niswander punts the ball 38 yards.
+Roughnecks will start their drive on the HOU 44.
+
+ -= Roughnecks - 12 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:50
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q3 | 11:02] HOU 1st & 10  @ HOU 44
+(RB) Andrew Williams is brought down for a 8 yard loss.
+The tackle made by (DE) Jay Bomley.
+
+[Q3 | 10:36] HOU 2nd & 18  @ HOU 36
+(RB) Andrew Williams runs middle for a 9 yard gain!
+The tackle made by (DT) Elijah Qualls.
+
+[Q3 | 10:06] HOU 3rd & 9  @ HOU 45
+(RB) Andrew Williams runs left for a 20 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q3 | 09:42] HOU 1st & 10  @ WAS 35
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (DT) Keshun Freeman.
+
+[Q3 | 09:17] HOU 2nd & 10  @ WAS 35
+(RB) Andrew Williams runs right for a 10 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q3 | 08:54] HOU 1st & 10  @ WAS 25
+(RB) James Butler runs right for a 5 yard gain!
+The tackle made by (DT) Elijah Qualls.
+
+[Q3 | 08:35] HOU 2nd & 5  @ WAS 20
+(RB) Andrew Williams runs right for a 13 yard gain!
+The tackle made by (DT) Elijah Qualls.
+
+[Q3 | 08:16] HOU 1st & Goal  @ WAS 7
+(RB) Andrew Williams runs middle for a 7 yard gain!
+Touchdown, Roughnecks!
+
+ -= Defenders - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 3:14
+Plays: 8 Run ; 0 Pass
+Yards: 56
+===============================
+
+[Q3 | 07:48]  | Kick-off!
+
+The Roughnecks' (K) Sergio Castitllo will kick the ball.
+Defenders have elected (WR) Deion Holliman to recieve.
+
+A fair catch is whistled.
+Defenders to start their drive on the WAS 9.
+
+
+[Q3 | 07:38] WAS 1st & 10  @ WAS 9
+(RB) Jhurrel Pressley runs middle for a 3 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 07:13] WAS 2nd & 7  @ WAS 12
+(RB) Khalid Abdullah runs middle for a 14 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 06:54] WAS 1st & 10  @ WAS 26
+(RB) Nick Brossette runs right for a 1 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q3 | 06:33] WAS 2nd & 9  @ WAS 27
+(RB) Jhurrel Pressley is brought down for a 0 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q3 | 06:04] WAS 3rd & 9  @ WAS 27
+(RB) Khalid Abdullah runs right for a 2 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q3 | 05:38] WAS 4th & 7  @ WAS 29
+(P) Hunter Niswander punts the ball 39 yards.
+Roughnecks will start their drive on the HOU 32.
+
+ -= Roughnecks - 18 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 2:21
+Plays: 5 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q3 | 05:17] HOU 1st & 10  @ HOU 32
+(RB) Andrew Williams runs right for a 4 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q3 | 04:49] HOU 2nd & 6  @ HOU 36
+(RB) James Butler runs right for a 3 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q3 | 04:23] HOU 3rd & 3  @ HOU 39
+(RB) James Butler is brought down for a 8 yard loss.
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q3 | 04:00] HOU 4th & 11  @ HOU 31
+(P) Ajene Rehkow punts the ball 46 yards.
+Defenders will start their drive on the WAS 23.
+
+ -= Defenders - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:32
+Plays: 3 Run ; 0 Pass
+Yards: -1
+===============================
+
+
+[Q3 | 03:45] WAS 1st & 10  @ WAS 23
+(RB) Jhurrel Pressley is brought down for a 6 yard loss.
+The tackle made by (LB) Beniquez Brown.
+
+[Q3 | 03:19] WAS 2nd & 16  @ WAS 17
+(RB) Nick Brossette runs right for a 6 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 03:01] WAS 3rd & 10  @ WAS 23
+(RB) Nick Brossette runs left for a 2 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 02:37] WAS 4th & 8  @ WAS 25
+(P) Hunter Niswander punts the ball 39 yards.
+Roughnecks will start their drive on the HOU 36.
+
+ -= Roughnecks - 18 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:35
+Plays: 3 Run ; 0 Pass
+Yards: 2
+===============================
+
+
+[Q3 | 02:10] HOU 1st & 10  @ HOU 36
+(RB) Andrew Williams runs left for a 22 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q3 | 01:51] HOU 1st & 10  @ WAS 42
+Miss communication on the call. (QB) PJ Walker
+and (RB) Andrew Williams slip on the handoff. Fumble.
+Ball recovery by (LB) Jonathan Massaquoi on the WAS 45.
+
+ -= Defenders - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 0:37
+Plays: 2 Run ; 0 Pass
+Yards: 19
+===============================
+
+
+[Q3 | 01:33] WAS 1st & 10  @ WAS 45
+(RB) Nick Brossette runs middle for a 1 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 01:06] WAS 2nd & 9  @ WAS 46
+(RB) Donnel Pumphrey is brought down for a 8 yard loss.
+The tackle made by (DE) Cashaud Lyons.
+
+[Q3 | 00:47] WAS 3rd & 17  @ WAS 38
+(RB) Jhurrel Pressley runs left for a 2 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q3 | 00:21] WAS 4th & 15  @ WAS 40
+(P) Hunter Niswander punts the ball a good 53 yards!
+Roughnecks will start their drive on the HOU 7.
+
+ -= Roughnecks - 18 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:28
+Plays: 3 Run ; 0 Pass
+Yards: -5
+===============================
+
+
+[Q3 | 00:05] HOU 1st & 10  @ HOU 7
+(RB) James Butler runs right for a 4 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q4 | 14:39] HOU 2nd & 6  @ HOU 11
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DT) Elijah Qualls.
+
+[Q4 | 14:13] HOU 3rd & 6  @ HOU 11
+(RB) Andrew Williams runs right for a 2 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q4 | 13:43] HOU 4th & 4  @ HOU 13
+(P) Ajene Rehkow punts the ball 42 yards.
+Defenders will start their drive on the WAS 45.
+
+ -= Defenders - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:46
+Plays: 3 Run ; 0 Pass
+Yards: 6
+===============================
+
+
+[Q4 | 13:19] WAS 1st & 10  @ WAS 45
+(RB) Khalid Abdullah is brought down for a 0 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 12:53] WAS 2nd & 10  @ WAS 45
+(RB) Khalid Abdullah runs left for a 2 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 12:34] WAS 3rd & 8  @ WAS 47
+(RB) Khalid Abdullah runs right for a 2 yard gain!
+The tackle made by (DE) Kony Ealy.
+
+[Q4 | 12:14] WAS 4th & 6  @ WAS 49
+(P) Hunter Niswander punts the ball 45 yards.
+Roughnecks will start their drive on the HOU 6.
+
+ -= Roughnecks - 18 ; Defenders - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:20
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q4 | 11:59] HOU 1st & 10  @ HOU 6
+(RB) Andrew Williams runs right for a 2 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 11:31] HOU 2nd & 8  @ HOU 8
+(RB) Andrew Williams is brought down for a 0 yard loss.
+The tackle made by (DT) Elijah Qualls.
+
+[Q4 | 11:04] HOU 3rd & 8  @ HOU 8
+(RB) Andrew Williams runs left for a 2 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q4 | 10:47] HOU 4th & 6  @ HOU 10
+(P) Ajene Rehkow punts the ball 43 yards.
+Defenders will start their drive on the WAS 47.
+
+ -= Defenders - 18 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 1:24
+Plays: 3 Run ; 0 Pass
+Yards: 4
+===============================
+
+
+[Q4 | 10:35] WAS 1st & 10  @ WAS 47
+(RB) Donnel Pumphrey runs left for a 12 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q4 | 10:14] WAS 1st & 10  @ HOU 41
+(RB) Donnel Pumphrey runs middle for a 1 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 09:47] WAS 2nd & 9  @ HOU 40
+(RB) Nick Brossette runs left for a 2 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 09:21] WAS 3rd & 7  @ HOU 38
+(RB) Nick Brossette runs right for a 23 yard gain!
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 08:58] WAS 1st & 10  @ HOU 15
+(RB) Nick Brossette runs right for a 2 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 08:36] WAS 2nd & 8  @ HOU 13
+(RB) Jhurrel Pressley runs middle for a 13 yard gain!
+Touchdown, Defenders!
+
+ -= Roughnecks - 18 ; Defenders - 24 =- 
+
+===============================
+Drive Summary: 
+Time: 2:16
+Plays: 6 Run ; 0 Pass
+Yards: 53
+===============================
+
+[Q4 | 08:19]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Roughnecks have elected (RB) James Butler to recieve.
+
+Ball hits the turf at the 4 yard line
+and bounces into the endzone. Minor touchback.
+Roughnecks to start their drive on the HOU 15.
+
+
+[Q4 | 08:07] HOU 1st & 10  @ HOU 15
+(RB) Andrew Williams runs middle for a 5 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 07:40] HOU 2nd & 5  @ HOU 20
+(RB) James Butler runs middle for a 13 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q4 | 07:12] HOU 1st & 10  @ HOU 33
+(RB) James Butler runs right for a 8 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q4 | 06:55] HOU 2nd & 2  @ HOU 41
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 06:27] HOU 3rd & 2  @ HOU 41
+(RB) James Butler runs middle for a 1 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q4 | 05:57] HOU 4th & 1  @ HOU 42
+(QB) PJ Walker runs up the middle for a 5 gain.
+(DT) Anthony Johnson with the tackle.
+
+[Q4 | 05:32] HOU 1st & 10  @ HOU 47
+(RB) James Butler runs right for a 10 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q4 | 05:11] HOU 1st & 10  @ WAS 43
+(RB) James Butler is brought down for a 0 yard loss.
+The tackle made by (DT) Elijah Qualls.
+
+[Q4 | 04:52] HOU 2nd & 10  @ WAS 43
+(RB) Andrew Williams runs middle for a 3 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q4 | 04:33] HOU 3rd & 7  @ WAS 40
+(RB) Andrew Williams runs left for a 1 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q4 | 04:12] HOU 4th & 6  @ WAS 39
+(K) Sergio Castitllo will now attempt a 48 yard field goal.
+Miss!
+ -= Defenders - 24 ; Roughnecks - 18 =- 
+
+===============================
+Drive Summary: 
+Time: 4:06
+Plays: 10 Run ; 0 Pass
+Yards: 46
+===============================
+
+
+[Q4 | 04:01] WAS 1st & 10  @ WAS 39
+(RB) Nick Brossette runs middle for a 1 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 03:28] WAS 2nd & 9  @ WAS 40
+(RB) Khalid Abdullah runs left for a 10 yard gain!
+The tackle made by (DE) Gabe Wright.
+
+[Q4 | 02:53] WAS 1st & 10  @  the '50
+(RB) Nick Brossette runs middle for a 13 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 02:23] WAS 1st & 10  @ HOU 37
+(RB) Donnel Pumphrey runs right for a 4 yard gain!
+The tackle made by (DE) Cashaud Lyons.
+
+[Q4 | 01:40] WAS 2nd & 6  @ HOU 33
+(RB) Nick Brossette is brought down for a 5 yard loss.
+The tackle made by (LB) Marquis Gates.
+
+[Q4 | 01:04] WAS 3rd & 11  @ HOU 38
+(RB) Nick Brossette runs left for a 18 yard gain!
+The tackle made by (LB) Beniquez Brown.
+
+[Q4 | 00:31] WAS 1st & 10  @ HOU 20
+(RB) Jhurrel Pressley is brought down for a 5 yard loss.
+The tackle made by (DE) Gabe Wright.
+
+End of Regulation.
+ -= Roughnecks - 18 ; Defenders - 24 =- 
+
+===============================
+Drive Summary: 
+Time: 4:01
+Plays: 7 Run ; 0 Pass
+Yards: 36
+===============================
+
+
+The Washington Defenders at The Houston Roughnecks Game Stats:
+======================= WAS ======== HOU
+Score:                  24           18
+Time of Possession:     30:00        30:00
+Total Yards:            102          293
+Pass Yards:             0           0
+Run Yards:              102          293
+Turnovers:              2            12

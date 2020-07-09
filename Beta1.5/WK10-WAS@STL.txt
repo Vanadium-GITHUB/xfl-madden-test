@@ -1,0 +1,824 @@
+[Q1 | 15:00]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Defenders have elected (WR) Eli Rogers to recieve.
+
+(WR) Eli Rogers catches the ball from the 1.
+(WR) Eli Rogers is tackled after a short 4 yard gain.
+Defenders to start their drive on the WAS 5.
+
+
+[Q1 | 14:51] WAS 1st & 10  @ WAS 5
+(RB) Donnel Pumphrey runs right for a 1 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q1 | 14:27] WAS 2nd & 9  @ WAS 6
+(RB) Nick Brossette runs right for a 3 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 14:01] WAS 3rd & 6  @ WAS 9
+(RB) Donnel Pumphrey runs middle for a 7 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 13:32] WAS 1st & 10  @ WAS 16
+(RB) Jhurrel Pressley runs middle for a 4 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 13:10] WAS 2nd & 6  @ WAS 20
+(RB) Donnel Pumphrey is brought down for a 0 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 12:50] WAS 3rd & 6  @ WAS 20
+(RB) Donnel Pumphrey runs middle for a 10 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 12:32] WAS 1st & 10  @ WAS 30
+(RB) Khalid Abdullah runs left for a 14 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 12:05] WAS 1st & 10  @ WAS 44
+(RB) Donnel Pumphrey runs middle for a 6 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 11:36] WAS 2nd & 4  @  the '50
+(RB) Nick Brossette runs right for a 9 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 11:11] WAS 1st & 10  @ STL 41
+(RB) Donnel Pumphrey runs left for a 1 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 10:51] WAS 2nd & 9  @ STL 40
+(RB) Donnel Pumphrey runs left for a 3 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q1 | 10:28] WAS 3rd & 6  @ STL 37
+(RB) Donnel Pumphrey runs right for a 10 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 10:09] WAS 1st & 10  @ STL 27
+(RB) Khalid Abdullah runs middle for a 6 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 09:40] WAS 2nd & 4  @ STL 21
+(RB) Khalid Abdullah is brought down for a 6 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 09:11] WAS 3rd & 10  @ STL 27
+(RB) Donnel Pumphrey carries the ball for a 2 gain but gets stripped!
+Ball recovery by (DL) Casey Sayles on the STL 25.
+
+
+[Q1 | 08:44] WAS 4th & 8  @ STL 25
+(K) Ty Rausa will now attempt a 34 yard field goal.
+Miss!
+Battlehawks to start on the 
+STL 25
+ -= Battlehawks - 0 ; Defenders - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 6:16
+Plays: 15 Run ; 0 Pass
+Yards: 70
+===============================
+
+
+[Q1 | 08:35] STL 1st & 10  @ STL 25
+(RB) Keith Ford runs right for a 5 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q1 | 08:15] STL 2nd & 5  @ STL 30
+(RB) Matt Jones is brought down for a 6 yard loss.
+The tackle made by (DT) Elijah Qualls.
+
+[Q1 | 07:49] STL 3rd & 11  @ STL 24
+(RB) Cristine Michael runs right for a 1 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q1 | 07:30] STL 4th & 10  @ STL 25
+(P) Marquette King punts the ball a good 57 yards!
+Defenders will start their drive on the WAS 18.
+
+ -= Defenders - 0 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:33
+Plays: 3 Run ; 0 Pass
+Yards: 0
+===============================
+
+
+[Q1 | 07:02] WAS 1st & 10  @ WAS 18
+(RB) Khalid Abdullah runs right for a 2 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 06:42] WAS 2nd & 8  @ WAS 20
+(RB) Donnel Pumphrey runs middle for a 3 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q1 | 06:16] WAS 3rd & 5  @ WAS 23
+(RB) Donnel Pumphrey runs right for a 13 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 05:46] WAS 1st & 10  @ WAS 36
+(RB) Jhurrel Pressley runs middle for a 3 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 05:18] WAS 2nd & 7  @ WAS 39
+(RB) Jhurrel Pressley runs left for a 18 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 04:58] WAS 1st & 10  @ STL 43
+(RB) Donnel Pumphrey runs left for a 11 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q1 | 04:30] WAS 1st & 10  @ STL 32
+(RB) Khalid Abdullah runs left for a 11 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 04:13] WAS 1st & 10  @ STL 21
+(RB) Nick Brossette runs middle for a 4 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q1 | 03:55] WAS 2nd & 6  @ STL 17
+(RB) Donnel Pumphrey runs middle for a 3 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q1 | 03:34] WAS 3rd & 3  @ STL 14
+(RB) Donnel Pumphrey runs right for a 1 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q1 | 03:04] WAS 4th & 2  @ STL 13
+(QB) Cardale Jones runs up the middle for a 2 gain.
+(S) Will Hill with the tackle.
+
+[Q1 | 02:36] WAS 1st & 10  @ STL 11
+(RB) Khalid Abdullah is brought down for a 3 yard loss.
+The tackle made by (LB Terence Gavin).
+
+[Q1 | 02:14] WAS 2nd & 13  @ STL 14
+(RB) Donnel Pumphrey runs middle for a 4 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 01:50] WAS 3rd & 9  @ STL 10
+(RB) Khalid Abdullah runs left for a 2 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q1 | 01:33] WAS 4th & 7  @ STL 8
+(K) Ty Rausa will now attempt a 20 yard field goal.
+Field Goal!
+ -= Battlehawks - 0 ; Defenders - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 5:41
+Plays: 14 Run ; 0 Pass
+Yards: 74
+===============================
+
+[Q1 | 01:21]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Battlehawks have elected (WR) Keith Mumphrey to recieve.
+
+Ball hits the turf and rolls to a halt at the 13.
+Battlehawks will start their drive on the STL 13.
+
+
+[Q1 | 01:10] STL 1st & 10  @ STL 13
+(RB) Lenard Tillery runs middle for a 9 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q1 | 00:47] STL 2nd & 1  @ STL 22
+(RB) Matt Jones is brought down for a 0 yard loss.
+The tackle made by (DE) Jay Bomley.
+
+[Q1 | 00:21] STL 3rd & 1  @ STL 22
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (DT) Keshun Freeman.
+
+[Q2 | 14:55] STL 4th & 1  @ STL 22
+(QB) Jordan Ta'amu runs up the middle for a 2 gain.
+(DE) Jay Bomley with the tackle.
+
+[Q2 | 14:25] STL 1st & 10  @ STL 24
+(RB) Matt Jones runs right for a 3 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q2 | 14:07] STL 2nd & 7  @ STL 27
+(RB) Matt Jones runs right for a 3 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q2 | 13:38] STL 3rd & 4  @ STL 30
+(RB) Cristine Michael is brought down for a 0 yard loss.
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q2 | 13:12] STL 4th & 4  @ STL 30
+(P) Marquette King punts the ball a good 48 yards!
+Defenders will start their drive on the WAS 22.
+
+ -= Defenders - 3 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 3:20
+Plays: 7 Run ; 0 Pass
+Yards: 17
+===============================
+
+
+[Q2 | 12:50] WAS 1st & 10  @ WAS 22
+(RB) Nick Brossette runs left for a 20 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q2 | 12:22] WAS 1st & 10  @ WAS 42
+(RB) Donnel Pumphrey is brought down for a 0 yard loss.
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 11:52] WAS 2nd & 10  @ WAS 42
+(RB) Nick Brossette is brought down for a 1 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 11:21] WAS 3rd & 11  @ WAS 41
+(RB) Donnel Pumphrey is brought down for a 2 yard loss.
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 10:51] WAS 4th & 13  @ WAS 39
+(P) Hunter Niswander punts the ball a good 59 yards!
+Battlehawks will start their drive on the STL 2.
+
+ -= Battlehawks - 0 ; Defenders - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 2:12
+Plays: 4 Run ; 0 Pass
+Yards: 17
+===============================
+
+
+[Q2 | 10:38] STL 1st & 10  @ STL 2
+(RB) Keith Ford runs right for a 25 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q2 | 10:16] STL 1st & 10  @ STL 27
+(RB) Cristine Michael runs middle for a 1 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q2 | 09:48] STL 2nd & 9  @ STL 28
+(RB) Lenard Tillery runs middle for a 4 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q2 | 09:21] STL 3rd & 5  @ STL 32
+(RB) Keith Ford runs middle for a 1 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q2 | 08:58] STL 4th & 4  @ STL 33
+(P) Marquette King punts the ball a good 58 yards!
+Defenders will start their drive on the WAS 9.
+
+ -= Defenders - 3 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:52
+Plays: 4 Run ; 0 Pass
+Yards: 31
+===============================
+
+
+[Q2 | 08:46] WAS 1st & 10  @ WAS 9
+(RB) Jhurrel Pressley runs middle for a 2 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 08:15] WAS 2nd & 8  @ WAS 11
+(RB) Donnel Pumphrey is brought down for a 0 yard loss.
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 07:45] WAS 3rd & 8  @ WAS 11
+(RB) Jhurrel Pressley runs middle for a 8 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 07:17] WAS 1st & 10  @ WAS 19
+(RB) Khalid Abdullah runs middle for a 2 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 06:35] WAS 2nd & 8  @ WAS 21
+(RB) Khalid Abdullah runs left for a 13 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 06:09] WAS 1st & 10  @ WAS 34
+(RB) Nick Brossette is brought down for a 0 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 05:39] WAS 2nd & 10  @ WAS 34
+(RB) Nick Brossette runs right for a 36 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 05:11] WAS 1st & 10  @ STL 30
+(RB) Nick Brossette runs middle for a 2 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 04:39] WAS 2nd & 8  @ STL 28
+(RB) Jhurrel Pressley runs left for a 5 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 04:08] WAS 3rd & 3  @ STL 23
+(RB) Nick Brossette runs right for a 4 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 03:37] WAS 1st & 10  @ STL 19
+(RB) Khalid Abdullah runs left for a 1 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q2 | 03:03] WAS 2nd & 9  @ STL 18
+(RB) Khalid Abdullah runs middle for a 8 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q2 | 02:34] WAS 3rd & 1  @ STL 10
+(RB) Jhurrel Pressley runs middle for a 2 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 02:04] WAS 1st & Goal  @ STL 8
+(RB) Donnel Pumphrey runs left for a 1 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q2 | 01:23] WAS 2nd & Goal  @ STL 7
+(RB) Donnel Pumphrey is brought down for a 0 yard loss.
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q2 | 00:55] WAS 3rd & Goal  @ STL 7
+(RB) Donnel Pumphrey is brought down for a 0 yard loss.
+The tackle made by (DL) Andrew Ankrah.
+
+[Q2 | 00:17] WAS 4th & Goal  @ STL 7
+(K) Ty Rausa will now attempt a 19 yard field goal.
+Field Goal!
+ -= Battlehawks - 0 ; Defenders - 6 =- 
+
+===============================
+Drive Summary: 
+Time: 8:40
+Plays: 16 Run ; 0 Pass
+Yards: 84
+===============================
+
+[Q2 | 00:06]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Battlehawks have elected (WR) De'Monray Pierson-El to recieve.
+
+Ball hits the turf at the 5 yard line
+and bounces into the endzone. Minor touchback.
+Battlehawks to start their drive on the STL 15.
+
+ -= Defenders - 6 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:52
+Plays: 4 Run ; 0 Pass
+Yards: 31
+===============================
+
+[Q3 | 15:00]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Battlehawks have elected (WR) Keith Mumphrey to recieve.
+
+(WR) Keith Mumphrey catches the ball from the 9.
+(WR) Keith Mumphrey is tackled for a 3 yard loss.
+Battlehawks to start their drive on the STL 6.
+
+
+[Q3 | 14:51] STL 1st & 10  @ STL 6
+(RB) Lenard Tillery is brought down for a 6 yard loss.
+The tackle made by (DT) Elijah Qualls.
+
+Safety. Defenders will recieve.
+ -= Defenders - 8 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 0:21
+Plays: 1 Run ; 0 Pass
+Yards: -6
+===============================
+
+[Q3 | 14:30]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Defenders have elected (WR) Deion Holliman to recieve.
+
+(WR) Deion Holliman catches the ball from the 14.
+(WR) Deion Holliman is tackled for a 3 yard loss.
+Defenders to start their drive on the WAS 11.
+
+
+[Q3 | 14:19] WAS 1st & 10  @ WAS 11
+(RB) Nick Brossette runs right for a 7 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 13:45] WAS 2nd & 3  @ WAS 18
+(RB) Nick Brossette is brought down for a 6 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 13:16] WAS 3rd & 9  @ WAS 12
+(RB) Nick Brossette runs right for a 6 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 12:38] WAS 4th & 3  @ WAS 18
+(P) Hunter Niswander punts the ball 45 yards.
+Battlehawks will start their drive on the STL 37.
+
+ -= Battlehawks - 0 ; Defenders - 8 =- 
+
+===============================
+Drive Summary: 
+Time: 1:54
+Plays: 3 Run ; 0 Pass
+Yards: 7
+===============================
+
+
+[Q3 | 12:25] STL 1st & 10  @ STL 37
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (DT) Keshun Freeman.
+
+[Q3 | 12:05] STL 2nd & 10  @ STL 37
+(RB) Keith Ford runs right for a 4 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q3 | 11:46] STL 3rd & 6  @ STL 41
+(RB) Cristine Michael runs left for a 1 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q3 | 11:29] STL 4th & 5  @ STL 42
+(P) Marquette King punts the ball 40 yards.
+Defenders will start their drive on the WAS 18.
+
+ -= Defenders - 8 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:12
+Plays: 3 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q3 | 11:13] WAS 1st & 10  @ WAS 18
+(RB) Khalid Abdullah is brought down for a 3 yard loss.
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 10:42] WAS 2nd & 13  @ WAS 15
+(RB) Nick Brossette runs right for a 8 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 10:18] WAS 3rd & 5  @ WAS 23
+(RB) Donnel Pumphrey carries the ball for a 6 gain but gets stripped!
+Ball recovery by (DL) Will Clarke on the WAS 29.
+
+
+[Q3 | 09:46] WAS 1st & 10  @ WAS 29
+(RB) Jhurrel Pressley runs right for a 3 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 09:04] WAS 2nd & 7  @ WAS 32
+(RB) Khalid Abdullah runs left for a 11 yard gain!
+The tackle made by (DL) Casey Sayles.
+
+[Q3 | 08:25] WAS 1st & 10  @ WAS 43
+(RB) Donnel Pumphrey runs right for a 2 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 07:56] WAS 2nd & 8  @ WAS 45
+(RB) Donnel Pumphrey runs left for a 2 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q3 | 07:15] WAS 3rd & 6  @ WAS 47
+(RB) Khalid Abdullah is brought down for a 0 yard loss.
+The tackle made by (DL) Channing Ward.
+
+[Q3 | 06:47] WAS 4th & 6  @ WAS 47
+(P) Hunter Niswander punts the ball 39 yards.
+Battlehawks will start their drive on the STL 14.
+
+ -= Battlehawks - 0 ; Defenders - 8 =- 
+
+===============================
+Drive Summary: 
+Time: 4:40
+Plays: 8 Run ; 0 Pass
+Yards: 29
+===============================
+
+
+[Q3 | 06:33] STL 1st & 10  @ STL 14
+(RB) Cristine Michael is brought down for a 3 yard loss.
+The tackle made by (DT) Elijah Qualls.
+
+[Q3 | 06:07] STL 2nd & 13  @ STL 11
+(RB) Cristine Michael runs right for a 6 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q3 | 05:48] STL 3rd & 7  @ STL 17
+(RB) Keith Ford is brought down for a 6 yard loss.
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q3 | 05:23] STL 4th & 13  @ STL 11
+(P) Marquette King punts the ball 43 yards.
+Defenders will start their drive on the WAS 46.
+
+ -= Defenders - 8 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 1:34
+Plays: 3 Run ; 0 Pass
+Yards: -3
+===============================
+
+
+[Q3 | 04:59] WAS 1st & 10  @ WAS 46
+(RB) Donnel Pumphrey runs left for a 1 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 04:29] WAS 2nd & 9  @ WAS 47
+(RB) Donnel Pumphrey runs right for a 1 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q3 | 03:56] WAS 3rd & 8  @ WAS 48
+(RB) Jhurrel Pressley gets caught in the back field. Fumbles the ball.
+Ball recovery by (DL) Andrew Ankrah on the WAS 41.
+
+
+[Q3 | 03:26] WAS 4th & 15  @ WAS 41
+(P) Hunter Niswander punts the ball 46 yards.
+Battlehawks will start their drive on the STL 13.
+
+ -= Battlehawks - 0 ; Defenders - 8 =- 
+
+===============================
+Drive Summary: 
+Time: 2:01
+Plays: 3 Run ; 0 Pass
+Yards: -5
+===============================
+
+
+[Q3 | 02:58] STL 1st & 10  @ STL 13
+(RB) Lenard Tillery runs middle for a 9 yard gain!
+The tackle made by (DE) Jay Bomley.
+
+[Q3 | 02:31] STL 2nd & 1  @ STL 22
+(RB) Matt Jones runs left for a 9 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+[Q3 | 02:12] STL 1st & 10  @ STL 31
+(RB) Cristine Michael is brought down for a 3 yard loss.
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q3 | 01:42] STL 2nd & 13  @ STL 28
+(RB) Lenard Tillery runs left for a 4 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q3 | 01:12] STL 3rd & 9  @ STL 32
+(RB) Keith Ford runs middle for a 1 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q3 | 00:51] STL 4th & 8  @ STL 33
+(P) Marquette King punts the ball a good 55 yards!
+Defenders will start their drive on the WAS 12.
+
+ -= Defenders - 8 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:21
+Plays: 5 Run ; 0 Pass
+Yards: 20
+===============================
+
+
+[Q3 | 00:37] WAS 1st & 10  @ WAS 12
+(RB) Donnel Pumphrey runs right for a 3 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q3 | 00:03] WAS 2nd & 7  @ WAS 15
+(RB) Jhurrel Pressley is brought down for a 7 yard loss.
+The tackle made by (DL) Casey Sayles.
+
+[Q4 | 14:29] WAS 3rd & 14  @ WAS 8
+(RB) Nick Brossette runs middle for a 4 yard gain!
+The tackle made by (DL) Andrew Ankrah.
+
+[Q4 | 13:50] WAS 4th & 10  @ WAS 12
+(P) Hunter Niswander punts the ball 41 yards.
+Battlehawks will start their drive on the STL 47.
+
+ -= Battlehawks - 0 ; Defenders - 8 =- 
+
+===============================
+Drive Summary: 
+Time: 2:13
+Plays: 3 Run ; 0 Pass
+Yards: 0
+===============================
+
+
+[Q4 | 13:24] STL 1st & 10  @ STL 47
+(RB) Lenard Tillery runs left for a 11 yard gain!
+The tackle made by (DT) Elijah Qualls.
+
+[Q4 | 12:57] STL 1st & 10  @ WAS 42
+(RB) Lenard Tillery runs left for a 2 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 12:33] STL 2nd & 8  @ WAS 40
+(RB) Lenard Tillery is brought down for a 8 yard loss.
+The tackle made by (DT) Anthony Johnson.
+
+[Q4 | 12:03] STL 3rd & 16  @ WAS 48
+(RB) Lenard Tillery is brought down for a 0 yard loss.
+The tackle made by (DE) Jay Bomley.
+
+[Q4 | 11:42] STL 4th & 16  @ WAS 48
+(P) Marquette King punts the ball 43 yards.
+Defenders will start their drive on the WAS 5.
+
+ -= Defenders - 8 ; Battlehawks - 0 =- 
+
+===============================
+Drive Summary: 
+Time: 2:03
+Plays: 4 Run ; 0 Pass
+Yards: 5
+===============================
+
+
+[Q4 | 11:21] WAS 1st & 10  @ WAS 5
+(RB) Khalid Abdullah runs right for a 1 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q4 | 10:51] WAS 2nd & 9  @ WAS 6
+(RB) Nick Brossette runs middle for a 2 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 10:18] WAS 3rd & 7  @ WAS 8
+(RB) Khalid Abdullah is brought down for a 0 yard loss.
+The tackle made by (DL) Casey Sayles.
+
+[Q4 | 09:45] WAS 4th & 7  @ WAS 8
+(P) Hunter Niswander punts the ball 47 yards.
+Battlehawks will start their drive on the STL 45.
+
+ -= Battlehawks - 0 ; Defenders - 8 =- 
+
+===============================
+Drive Summary: 
+Time: 1:59
+Plays: 3 Run ; 0 Pass
+Yards: 3
+===============================
+
+
+[Q4 | 09:22] STL 1st & 10  @ STL 45
+(RB) Matt Jones runs left for a 44 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 08:52] STL 1st & 10  @ WAS 11
+(RB) Lenard Tillery runs right for a 2 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 08:25] STL 2nd & 8  @ WAS 9
+(RB) Cristine Michael is brought down for a 0 yard loss.
+The tackle made by (DE) Jay Bomley.
+
+[Q4 | 08:02] STL 3rd & 8  @ WAS 9
+(RB) Lenard Tillery runs left for a 4 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 07:45] STL 4th & 4  @ WAS 5
+(K) Taylor Russolino will now attempt a 14 yard field goal.
+Field Goal!
+ -= Defenders - 8 ; Battlehawks - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 1:46
+Plays: 4 Run ; 0 Pass
+Yards: 50
+===============================
+
+[Q4 | 07:36]  | Kick-off!
+
+The Battlehawks' (K) Taylor Russolino will kick the ball.
+Defenders have elected (WR) Eli Rogers to recieve.
+
+(WR) Eli Rogers catches the ball from the 8.
+(WR) Eli Rogers is tackled for a 0 yard loss.
+Defenders to start their drive on the WAS 8.
+
+
+[Q4 | 07:26] WAS 1st & 10  @ WAS 8
+(RB) Donnel Pumphrey runs middle for a 20 yard gain!
+The tackle made by (DL) Dewayne Hendrix.
+
+[Q4 | 07:01] WAS 1st & 10  @ WAS 28
+(RB) Donnel Pumphrey carries the ball for a 6 gain but gets stripped!
+Ball recovery by (DL) Channing Ward on the WAS 34.
+
+
+[Q4 | 06:20] WAS 2nd & 4  @ WAS 34
+(RB) Khalid Abdullah runs right for a 4 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 05:48] WAS 1st & 10  @ WAS 38
+(RB) Khalid Abdullah runs middle for a 12 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 05:11] WAS 1st & 10  @  the '50
+(RB) Jhurrel Pressley runs middle for a 15 yard gain!
+The tackle made by (DL) Will Clarke.
+
+[Q4 | 04:33] WAS 1st & 10  @ STL 35
+(RB) Donnel Pumphrey runs right for a 2 yard gain!
+The tackle made by (DL) Channing Ward.
+
+[Q4 | 04:04] WAS 2nd & 8  @ STL 33
+(RB) Donnel Pumphrey runs right for a 14 yard gain!
+The tackle made by (LB Terence Gavin).
+
+[Q4 | 03:39] WAS 1st & 10  @ STL 19
+(RB) Nick Brossette runs right for a 19 yard gain!
+Touchdown, Defenders!
+
+ -= Battlehawks - 3 ; Defenders - 14 =- 
+
+===============================
+Drive Summary: 
+Time: 4:28
+Plays: 8 Run ; 0 Pass
+Yards: 92
+===============================
+
+[Q4 | 02:58]  | Kick-off!
+
+The Defenders' (K) Ty Rausa will kick the ball.
+Battlehawks have elected (WR) De'Monray Pierson-El to recieve.
+
+Ball hits the turf at the 1 yard line
+and bounces into the endzone. Minor touchback.
+Battlehawks to start their drive on the STL 15.
+
+
+[Q4 | 02:46] STL 1st & 10  @ STL 15
+(RB) Cristine Michael runs left for a 3 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q4 | 02:19] STL 2nd & 7  @ STL 18
+(RB) Cristine Michael runs left for a 12 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q4 | 01:58] STL 1st & 10  @ STL 30
+(RB) Cristine Michael runs middle for a 2 yard gain!
+The tackle made by (DT) Keshun Freeman.
+
+[Q4 | 01:28] STL 2nd & 8  @ STL 32
+(RB) Matt Jones runs right for a 14 yard gain!
+The tackle made by (DE) Tracey Sprinkle.
+
+[Q4 | 01:11] STL 1st & 10  @ STL 46
+(RB) Keith Ford runs left for a 2 yard gain!
+The tackle made by (LB) Jonathan Massaquoi.
+
+[Q4 | 00:45] STL 2nd & 8  @ STL 48
+(RB) Matt Jones is brought down for a 0 yard loss.
+The tackle made by (DT) Keshun Freeman.
+
+[Q4 | 00:19] STL 3rd & 8  @ STL 48
+(RB) Cristine Michael runs left for a 12 yard gain!
+The tackle made by (DT) Anthony Johnson.
+
+End of Regulation.
+ -= Defenders - 14 ; Battlehawks - 3 =- 
+
+===============================
+Drive Summary: 
+Time: 2:46
+Plays: 7 Run ; 0 Pass
+Yards: 45
+===============================
+
+
+The Washington Defenders at The St. Louis Battlehawks Game Stats:
+======================= WAS ======== STL
+Score:                  14           3
+Time of Possession:     40:34        19:32
+Total Yards:            272          64
+Pass Yards:             0           0
+Run Yards:              272          64
+Turnovers:              0            1
