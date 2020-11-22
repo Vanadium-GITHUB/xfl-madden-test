@@ -1,0 +1,227 @@
+Team Standings:
+
+XFL East
+  [8 - 2] The Tampa Bay Vipers
+
+  [5 - 5] The Washington Defenders
+
+  [5 - 5] The New York Guardians
+
+  [3 - 7] The St. Louis Battlehawks
+
+
+XFL West
+  [6 - 4] The Seattle Dragons
+
+  [5 - 5] The Houston Roughnecks
+
+  [5 - 5] The Dallas Renegades
+
+  [3 - 7] The Los Angeles Wildcats
+
+
+Full Season Statistics
+
+XFL East
+  [8 - 2] The Tampa Bay Vipers
+          Point Diff:         45
+          Turnover Diff       9
+       Offense:
+        - Points Scored:      259
+          Touchdowns:         34
+          Field Goals:        8/13
+        - Total Offense:      3012 yds
+          Passing Yards:      1826 yds
+          Rushing Yards:      1186 yds
+        - Total Plays:        479
+          20+ YDS Plays:      30
+          Pass Plays:         242
+          Run Plays:          237
+        - First Downs:        158
+          Third Down Pct:     46%
+          Fourth Down Pct:    62%
+       Defence:
+        - Points Allowed:     214
+          Sacks:              8
+        - Turnovers Forced:   27
+          Interceptions:      12
+          Fumbles:            12
+          Safeties:           3
+
+  [5 - 5] The Washington Defenders
+          Point Diff:         19
+          Turnover Diff       -7
+       Offense:
+        - Points Scored:      202
+          Touchdowns:         25
+          Field Goals:        11/15
+        - Total Offense:      2127 yds
+          Passing Yards:      1300 yds
+          Rushing Yards:      827 yds
+        - Total Plays:        422
+          20+ YDS Plays:      28
+          Pass Plays:         231
+          Run Plays:          191
+        - First Downs:        108
+          Third Down Pct:     34%
+          Fourth Down Pct:    44%
+       Defence:
+        - Points Allowed:     183
+          Sacks:              6
+        - Turnovers Forced:   20
+          Interceptions:      15
+          Fumbles:            4
+          Safeties:           1
+
+  [5 - 5] The New York Guardians
+          Point Diff:         -4
+          Turnover Diff       -3
+       Offense:
+        - Points Scored:      208
+          Touchdowns:         23
+          Field Goals:        15/21
+        - Total Offense:      2742 yds
+          Passing Yards:      1625 yds
+          Rushing Yards:      1117 yds
+        - Total Plays:        495
+          20+ YDS Plays:      31
+          Pass Plays:         248
+          Run Plays:          247
+        - First Downs:        143
+          Third Down Pct:     40%
+          Fourth Down Pct:    70%
+       Defence:
+        - Points Allowed:     212
+          Sacks:              10
+        - Turnovers Forced:   22
+          Interceptions:      14
+          Fumbles:            4
+          Safeties:           4
+
+  [3 - 7] The St. Louis Battlehawks
+          Point Diff:         -54
+          Turnover Diff       3
+       Offense:
+        - Points Scored:      183
+          Touchdowns:         22
+          Field Goals:        9/12
+        - Total Offense:      2331 yds
+          Passing Yards:      1386 yds
+          Rushing Yards:      945 yds
+        - Total Plays:        448
+          20+ YDS Plays:      23
+          Pass Plays:         220
+          Run Plays:          228
+        - First Downs:        129
+          Third Down Pct:     36%
+          Fourth Down Pct:    30%
+       Defence:
+        - Points Allowed:     237
+          Sacks:              11
+        - Turnovers Forced:   24
+          Interceptions:      10
+          Fumbles:            11
+          Safeties:           3
+
+
+XFL West
+  [6 - 4] The Seattle Dragons
+          Point Diff:         43
+          Turnover Diff       7
+       Offense:
+        - Points Scored:      233
+          Touchdowns:         26
+          Field Goals:        17/22
+        - Total Offense:      2658 yds
+          Passing Yards:      1501 yds
+          Rushing Yards:      1157 yds
+        - Total Plays:        470
+          20+ YDS Plays:      31
+          Pass Plays:         240
+          Run Plays:          230
+        - First Downs:        128
+          Third Down Pct:     29%
+          Fourth Down Pct:    55%
+       Defence:
+        - Points Allowed:     190
+          Sacks:              7
+        - Turnovers Forced:   24
+          Interceptions:      14
+          Fumbles:            9
+          Safeties:           1
+
+  [5 - 5] The Houston Roughnecks
+          Point Diff:         4
+          Turnover Diff       -9
+       Offense:
+        - Points Scored:      225
+          Touchdowns:         31
+          Field Goals:        10/12
+        - Total Offense:      2592 yds
+          Passing Yards:      1668 yds
+          Rushing Yards:      924 yds
+        - Total Plays:        460
+          20+ YDS Plays:      26
+          Pass Plays:         246
+          Run Plays:          214
+        - First Downs:        145
+          Third Down Pct:     40%
+          Fourth Down Pct:    41%
+       Defence:
+        - Points Allowed:     221
+          Sacks:              5
+        - Turnovers Forced:   21
+          Interceptions:      11
+          Fumbles:            10
+          Safeties:           0
+
+  [5 - 5] The Dallas Renegades
+          Point Diff:         -19
+          Turnover Diff       5
+       Offense:
+        - Points Scored:      187
+          Touchdowns:         24
+          Field Goals:        8/13
+        - Total Offense:      2708 yds
+          Passing Yards:      1547 yds
+          Rushing Yards:      1161 yds
+        - Total Plays:        468
+          20+ YDS Plays:      30
+          Pass Plays:         227
+          Run Plays:          241
+        - First Downs:        133
+          Third Down Pct:     40%
+          Fourth Down Pct:    66%
+       Defence:
+        - Points Allowed:     206
+          Sacks:              14
+        - Turnovers Forced:   27
+          Interceptions:      12
+          Fumbles:            11
+          Safeties:           4
+
+  [3 - 7] The Los Angeles Wildcats
+          Point Diff:         -30
+          Turnover Diff       -5
+       Offense:
+        - Points Scored:      183
+          Touchdowns:         21
+          Field Goals:        13/18
+        - Total Offense:      2542 yds
+          Passing Yards:      1494 yds
+          Rushing Yards:      1048 yds
+        - Total Plays:        476
+          20+ YDS Plays:      25
+          Pass Plays:         243
+          Run Plays:          233
+        - First Downs:        134
+          Third Down Pct:     34%
+          Fourth Down Pct:    41%
+       Defence:
+        - Points Allowed:     213
+          Sacks:              6
+        - Turnovers Forced:   21
+          Interceptions:      13
+          Fumbles:            6
+          Safeties:           2
+

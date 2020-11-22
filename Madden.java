@@ -19,7 +19,7 @@ public class Madden {
       // System Initalization
     GAME_RANDOMIZE = true;
     GAME_SEED = new Random();
-    GAME_DELAY = false;
+    GAME_DELAY = true;
     GAME_DELAY_TIME = 0;
     GAME_OUTPUT = true;
 
